@@ -1,0 +1,10 @@
+dataset_id: 22646
+
+input_dir: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/
+
+output_dir: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999-tfrecords/
+
+infile_base: FinalLevel_NuMu_NuGenCCNC.022646
+
+start: 0
+end: 1000
