@@ -642,3 +642,458 @@ NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(boo
 NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
 NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
 NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+Processing file 127/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000131.i3.zst
+Len of pulse frames 127
+Length of meta frames 127
+Event counts= 359
+Processing file 128/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000132.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 128
+Length of meta frames 128
+Event counts= 355
+Processing file 129/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000133.i3.zst
+Len of pulse frames 129
+Length of meta frames 129
+Event counts= 359
+Processing file 130/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000134.i3.zst
+Len of pulse frames 130
+Length of meta frames 130
+Event counts= 381
+Processing file 131/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000135.i3.zst
+Len of pulse frames 131
+Length of meta frames 131
+Event counts= 355
+Processing file 132/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000136.i3.zst
+Len of pulse frames 132
+Length of meta frames 132
+Event counts= 375
+Processing file 133/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000137.i3.zst
+Len of pulse frames 133
+Length of meta frames 133
+Event counts= 374
+Processing file 134/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000138.i3.zst
+Len of pulse frames 134
+Length of meta frames 134
+Event counts= 369
+Processing file 135/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000139.i3.zst
+Len of pulse frames 135
+Length of meta frames 135
+Event counts= 387
+Processing file 136/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000140.i3.zst
+Len of pulse frames 136
+Length of meta frames 136
+Event counts= 362
+Processing file 137/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000141.i3.zst
+Len of pulse frames 137
+Length of meta frames 137
+Event counts= 335
+Processing file 138/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000142.i3.zst
+Len of pulse frames 138
+Length of meta frames 138
+Event counts= 361
+Processing file 139/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000143.i3.zst
+Len of pulse frames 139
+Length of meta frames 139
+Event counts= 352
+Processing file 140/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000144.i3.zst
+Len of pulse frames 140
+Length of meta frames 140
+Event counts= 356
+Processing file 141/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000145.i3.zst
+Len of pulse frames 141
+Length of meta frames 141
+Event counts= 362
+Processing file 142/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000146.i3.zst
+Len of pulse frames 142
+Length of meta frames 142
+Event counts= 375
+Processing file 143/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000147.i3.zst
+Len of pulse frames 143
+Length of meta frames 143
+Event counts= 365
+Processing file 144/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000148.i3.zst
+Len of pulse frames 144
+Length of meta frames 144
+Event counts= 370
+Processing file 145/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000149.i3.zst
+Len of pulse frames 145
+Length of meta frames 145
+Event counts= 382
+Processing file 146/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000150.i3.zst
+Len of pulse frames 146
+Length of meta frames 146
+Event counts= 384
+Processing file 147/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000151.i3.zst
+Len of pulse frames 147
+Length of meta frames 147
+Event counts= 353
+Processing file 148/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000152.i3.zst
+Len of pulse frames 148
+Length of meta frames 148
+Event counts= 392
+Processing file 149/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000153.i3.zst
+Len of pulse frames 149
+Length of meta frames 149
+Event counts= 363
+Processing file 150/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000154.i3.zst
+Len of pulse frames 150
+Length of meta frames 150
+Event counts= 355
+Processing file 151/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000155.i3.zst
+Len of pulse frames 151
+Length of meta frames 151
+Event counts= 342
+Processing file 152/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000156.i3.zst
+Len of pulse frames 152
+Length of meta frames 152
+Event counts= 378
+Processing file 153/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000157.i3.zst
+Len of pulse frames 153
+Length of meta frames 153
+Event counts= 347
+Processing file 154/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000158.i3.zst
+Len of pulse frames 154
+Length of meta frames 154
+Event counts= 347
+Processing file 155/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000159.i3.zst
+Len of pulse frames 155
+Length of meta frames 155
+Event counts= 361
+Processing file 156/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000160.i3.zst
+Len of pulse frames 156
+Length of meta frames 156
+Event counts= 357
+Processing file 157/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000161.i3.zst
+Len of pulse frames 157
+Length of meta frames 157
+Event counts= 361
+Processing file 158/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000162.i3.zst
+Len of pulse frames 158
+Length of meta frames 158
+Event counts= 338
+Processing file 159/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000163.i3.zst
+Len of pulse frames 159
+Length of meta frames 159
+Event counts= 339
+Processing file 160/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000164.i3.zst
+Len of pulse frames 160
+Length of meta frames 160
+Event counts= 406
+Processing file 161/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000165.i3.zst
+Len of pulse frames 161
+Length of meta frames 161
+Event counts= 383
+Processing file 162/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000166.i3.zst
+Len of pulse frames 162
+Length of meta frames 162
+Event counts= 356
+Processing file 163/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000167.i3.zst
+Len of pulse frames 163
+Length of meta frames 163
+Event counts= 366
+Processing file 164/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000168.i3.zst
+Len of pulse frames 164
+Length of meta frames 164
+Event counts= 354
+Processing file 165/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000169.i3.zst
+Len of pulse frames 165
+Length of meta frames 165
+Event counts= 396
+Processing file 166/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000170.i3.zst
+Len of pulse frames 166
+Length of meta frames 166
+Event counts= 360
+Processing file 167/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000171.i3.zst
+Len of pulse frames 167
+Length of meta frames 167
+Event counts= 397
+Processing file 168/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000172.i3.zst
+Len of pulse frames 168
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+Length of meta frames 168
+Event counts= 404
+Processing file 169/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000173.i3.zst
+Len of pulse frames 169
+Length of meta frames 169
+Event counts= 338
+Processing file 170/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000174.i3.zst
+Len of pulse frames 170
+Length of meta frames 170
+Event counts= 318
+Processing file 171/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000175.i3.zst
+Len of pulse frames 171
+Length of meta frames 171
+Event counts= 329
+Processing file 172/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000176.i3.zst
+Len of pulse frames 172
+Length of meta frames 172
+Event counts= 364
+Processing file 173/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000177.i3.zst
+Len of pulse frames 173
+Length of meta frames 173
+Event counts= 351
+Processing file 174/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000178.i3.zst
+Len of pulse frames 174
+Length of meta frames 174
+Event counts= 364
+Processing file 175/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000179.i3.zst
+Len of pulse frames 175
+Length of meta frames 175
+Event counts= 328
+Processing file 176/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000180.i3.zst
+Len of pulse frames 176
+Length of meta frames 176
+Event counts= 395
+Processing file 177/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000181.i3.zst
+Len of pulse frames 177
+Length of meta frames 177
+Event counts= 370
+Processing file 178/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000182.i3.zst
+Len of pulse frames 178
+Length of meta frames 178
+Event counts= 389
+Processing file 179/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000183.i3.zst
+Len of pulse frames 179
+Length of meta frames 179
+Event counts= 396
+Processing file 180/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000184.i3.zst
+Len of pulse frames 180
+Length of meta frames 180
+Event counts= 365
+Processing file 181/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000185.i3.zst
+Len of pulse frames 181
+Length of meta frames 181
+Event counts= 401
+Processing file 182/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000186.i3.zst
+Len of pulse frames 182
+Length of meta frames 182
+Event counts= 355
+Processing file 183/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000187.i3.zst
+Len of pulse frames 183
+Length of meta frames 183
+Event counts= 427
+Processing file 184/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000188.i3.zst
+Len of pulse frames 184
+Length of meta frames 184
+Event counts= 380
+Processing file 185/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000189.i3.zst
+Len of pulse frames 185
+Length of meta frames 185
+Event counts= 349
+Processing file 186/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000190.i3.zst
+Len of pulse frames 186
+Length of meta frames 186
+Event counts= 323
+Processing file 187/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000191.i3.zst
+Len of pulse frames 187
+Length of meta frames 187
+Event counts= 373
+Processing file 188/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000192.i3.zst
+Len of pulse frames 188
+Length of meta frames 188
+Event counts= 396
+Processing file 189/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000193.i3.zst
+Len of pulse frames 189
+Length of meta frames 189
+Event counts= 387
+Processing file 190/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000194.i3.zst
+Len of pulse frames 190
+Length of meta frames 190
+Event counts= 367
+Processing file 191/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000195.i3.zst
+Len of pulse frames 191
+Length of meta frames 191
+Event counts= 374
+Processing file 192/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000197.i3.zst
+Len of pulse frames 192
+Length of meta frames 192
+Event counts= 387
+Processing file 193/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000198.i3.zst
+Len of pulse frames 193
+Length of meta frames 193
+Event counts= 324
+Processing file 194/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000199.i3.zst
+Len of pulse frames 194
+Length of meta frames 194
+Event counts= 402
+Processing file 195/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000200.i3.zst
+Len of pulse frames 195
+Length of meta frames 195
+Event counts= 354
+Processing file 196/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000201.i3.zst
+Len of pulse frames 196
+Length of meta frames 196
+Event counts= 364
+Processing file 197/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000202.i3.zst
+Len of pulse frames 197
+Length of meta frames 197
+Event counts= 372
+Processing file 198/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000203.i3.zst
+Len of pulse frames 198
+Length of meta frames 198
+Event counts= 331
+Processing file 199/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000204.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 199
+Length of meta frames 199
+Event counts= 360
+Processing file 200/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000205.i3.zst
+Len of pulse frames 200
+Length of meta frames 200
+Event counts= 344
+Processing file 201/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000206.i3.zst
+Len of pulse frames 201
+Length of meta frames 201
+Event counts= 370
+Processing file 202/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000207.i3.zst
+Len of pulse frames 202
+Length of meta frames 202
+Event counts= 386
+Processing file 203/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000208.i3.zst
+Len of pulse frames 203
+Length of meta frames 203
+Event counts= 379
+Processing file 204/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000209.i3.zst
+Len of pulse frames 204
+Length of meta frames 204
+Event counts= 353
+Processing file 205/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000210.i3.zst
+Len of pulse frames 205
+Length of meta frames 205
+Event counts= 377
+Processing file 206/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000211.i3.zst
+Len of pulse frames 206
+Length of meta frames 206
+Event counts= 363
+Processing file 207/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000212.i3.zst
+Len of pulse frames 207
+Length of meta frames 207
+Event counts= 399
+Processing file 208/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000213.i3.zst
+Len of pulse frames 208
+Length of meta frames 208
+Event counts= 352
+Processing file 209/959: /mnt/research/IceCube/Gupta-Reco/22646/0000000-0000999/FinalLevel_NuMu_NuGenCCNC.022646.000214.i3.zst
+Len of pulse frames 209
+Length of meta frames 209
+Event counts= 357
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
+NOTICE (I3Tray): I3Tray finishing... (I3Tray.cxx:526 in void I3Tray::Execute(bool, unsigned int))
