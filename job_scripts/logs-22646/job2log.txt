@@ -841,4 +841,2972 @@ Length of meta frames 210
 Event counts= 369
 Processing file 211/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001218.i3.zst
 Len of pulse frames 211
-Length of meta frames 
+Length of meta frames 211
+Event counts= 395
+Processing file 212/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001219.i3.zst
+Len of pulse frames 212
+Length of meta frames 212
+Event counts= 350
+Processing file 213/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001220.i3.zst
+Len of pulse frames 213
+Length of meta frames 213
+Event counts= 361
+Processing file 214/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001221.i3.zst
+Len of pulse frames 214
+Length of meta frames 214
+Event counts= 375
+Processing file 215/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001222.i3.zst
+Len of pulse frames 215
+Length of meta frames 215
+Event counts= 333
+Processing file 216/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001223.i3.zst
+Len of pulse frames 216
+Length of meta frames 216
+Event counts= 331
+Processing file 217/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001224.i3.zst
+Len of pulse frames 217
+Length of meta frames 217
+Event counts= 366
+Processing file 218/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001225.i3.zst
+Len of pulse frames 218
+Length of meta frames 218
+Event counts= 329
+Processing file 219/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001226.i3.zst
+Len of pulse frames 219
+Length of meta frames 219
+Event counts= 383
+Processing file 220/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001227.i3.zst
+Len of pulse frames 220
+Length of meta frames 220
+Event counts= 350
+Processing file 221/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001228.i3.zst
+Len of pulse frames 221
+Length of meta frames 221
+Event counts= 365
+Processing file 222/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001229.i3.zst
+Len of pulse frames 222
+Length of meta frames 222
+Event counts= 348
+Processing file 223/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001230.i3.zst
+Len of pulse frames 223
+Length of meta frames 223
+Event counts= 363
+Processing file 224/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001231.i3.zst
+Len of pulse frames 224
+Length of meta frames 224
+Event counts= 380
+Processing file 225/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001232.i3.zst
+Len of pulse frames 225
+Length of meta frames 225
+Event counts= 364
+Processing file 226/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001233.i3.zst
+Len of pulse frames 226
+Length of meta frames 226
+Event counts= 362
+Processing file 227/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001234.i3.zst
+Len of pulse frames 227
+Length of meta frames 227
+Event counts= 348
+Processing file 228/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001235.i3.zst
+Len of pulse frames 228
+Length of meta frames 228
+Event counts= 361
+Processing file 229/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001236.i3.zst
+Len of pulse frames 229
+Length of meta frames 229
+Event counts= 417
+Processing file 230/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001237.i3.zst
+Len of pulse frames 230
+Length of meta frames 230
+Event counts= 391
+Processing file 231/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001238.i3.zst
+Len of pulse frames 231
+Length of meta frames 231
+Event counts= 363
+Processing file 232/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001239.i3.zst
+Len of pulse frames 232
+Length of meta frames 232
+Event counts= 365
+Processing file 233/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001240.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 233
+Length of meta frames 233
+Event counts= 316
+Processing file 234/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001242.i3.zst
+Len of pulse frames 234
+Length of meta frames 234
+Event counts= 356
+Processing file 235/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001244.i3.zst
+Len of pulse frames 235
+Length of meta frames 235
+Event counts= 381
+Processing file 236/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001247.i3.zst
+Len of pulse frames 236
+Length of meta frames 236
+Event counts= 335
+Processing file 237/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001248.i3.zst
+Len of pulse frames 237
+Length of meta frames 237
+Event counts= 356
+Processing file 238/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001249.i3.zst
+Len of pulse frames 238
+Length of meta frames 238
+Event counts= 334
+Processing file 239/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001250.i3.zst
+Len of pulse frames 239
+Length of meta frames 239
+Event counts= 387
+Processing file 240/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001251.i3.zst
+Len of pulse frames 240
+Length of meta frames 240
+Event counts= 397
+Processing file 241/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001252.i3.zst
+Len of pulse frames 241
+Length of meta frames 241
+Event counts= 376
+Processing file 242/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001253.i3.zst
+Len of pulse frames 242
+Length of meta frames 242
+Event counts= 384
+Processing file 243/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001254.i3.zst
+Len of pulse frames 243
+Length of meta frames 243
+Event counts= 369
+Processing file 244/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001255.i3.zst
+Len of pulse frames 244
+Length of meta frames 244
+Event counts= 356
+Processing file 245/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001256.i3.zst
+Len of pulse frames 245
+Length of meta frames 245
+Event counts= 345
+Processing file 246/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001257.i3.zst
+Len of pulse frames 246
+Length of meta frames 246
+Event counts= 370
+Processing file 247/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001258.i3.zst
+Len of pulse frames 247
+Length of meta frames 247
+Event counts= 378
+Processing file 248/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001259.i3.zst
+Len of pulse frames 248
+Length of meta frames 248
+Event counts= 362
+Processing file 249/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001260.i3.zst
+Len of pulse frames 249
+Length of meta frames 249
+Event counts= 334
+Processing file 250/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001261.i3.zst
+Len of pulse frames 250
+Length of meta frames 250
+Event counts= 349
+Processing file 251/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001262.i3.zst
+Len of pulse frames 251
+Length of meta frames 251
+Event counts= 380
+Processing file 252/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001264.i3.zst
+Len of pulse frames 252
+Length of meta frames 252
+Event counts= 392
+Processing file 253/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001266.i3.zst
+Len of pulse frames 253
+Length of meta frames 253
+Event counts= 335
+Processing file 254/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001267.i3.zst
+Len of pulse frames 254
+Length of meta frames 254
+Event counts= 370
+Processing file 255/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001268.i3.zst
+Len of pulse frames 255
+Length of meta frames 255
+Event counts= 372
+Processing file 256/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001269.i3.zst
+Len of pulse frames 256
+Length of meta frames 256
+Event counts= 351
+Processing file 257/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001270.i3.zst
+Len of pulse frames 257
+Length of meta frames 257
+Event counts= 379
+Processing file 258/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001271.i3.zst
+Len of pulse frames 258
+Length of meta frames 258
+Event counts= 395
+Processing file 259/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001272.i3.zst
+Len of pulse frames 259
+Length of meta frames 259
+Event counts= 377
+Processing file 260/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001273.i3.zst
+Len of pulse frames 260
+Length of meta frames 260
+Event counts= 383
+Processing file 261/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001274.i3.zst
+Len of pulse frames 261
+Length of meta frames 261
+Event counts= 376
+Processing file 262/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001275.i3.zst
+Len of pulse frames 262
+Length of meta frames 262
+Event counts= 364
+Processing file 263/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001276.i3.zst
+Len of pulse frames 263
+Length of meta frames 263
+Event counts= 358
+Processing file 264/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001277.i3.zst
+Len of pulse frames 264
+Length of meta frames 264
+Event counts= 387
+Processing file 265/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001278.i3.zst
+Len of pulse frames 265
+Length of meta frames 265
+Event counts= 375
+Processing file 266/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001279.i3.zst
+Len of pulse frames 266
+Length of meta frames 266
+Event counts= 393
+Processing file 267/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001280.i3.zst
+Len of pulse frames 267
+Length of meta frames 267
+Event counts= 373
+Processing file 268/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001281.i3.zst
+Len of pulse frames 268
+Length of meta frames 268
+Event counts= 380
+Processing file 269/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001282.i3.zst
+Len of pulse frames 269
+Length of meta frames 269
+Event counts= 397
+Processing file 270/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001283.i3.zst
+Len of pulse frames 270
+Length of meta frames 270
+Event counts= 398
+Processing file 271/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001284.i3.zst
+Len of pulse frames 271
+Length of meta frames 271
+Event counts= 339
+Processing file 272/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001285.i3.zst
+Len of pulse frames 272
+Length of meta frames 272
+Event counts= 377
+Processing file 273/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001286.i3.zst
+Len of pulse frames 273
+Length of meta frames 273
+Event counts= 360
+Processing file 274/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001287.i3.zst
+Len of pulse frames 274
+Length of meta frames 274
+Event counts= 388
+Processing file 275/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001288.i3.zst
+Len of pulse frames 275
+Length of meta frames 275
+Event counts= 368
+Processing file 276/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001289.i3.zst
+Len of pulse frames 276
+Length of meta frames 276
+Event counts= 362
+Processing file 277/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001290.i3.zst
+Len of pulse frames 277
+Length of meta frames 277
+Event counts= 374
+Processing file 278/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001291.i3.zst
+Len of pulse frames 278
+Length of meta frames 278
+Event counts= 390
+Processing file 279/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001292.i3.zst
+Len of pulse frames 279
+Length of meta frames 279
+Event counts= 332
+Processing file 280/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001293.i3.zst
+Len of pulse frames 280
+Length of meta frames 280
+Event counts= 369
+Processing file 281/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001294.i3.zst
+Len of pulse frames 281
+Length of meta frames 281
+Event counts= 338
+Processing file 282/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001296.i3.zst
+Len of pulse frames 282
+Length of meta frames 282
+Event counts= 421
+Processing file 283/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001297.i3.zst
+Len of pulse frames 283
+Length of meta frames 283
+Event counts= 388
+Processing file 284/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001298.i3.zst
+Len of pulse frames 284
+Length of meta frames 284
+Event counts= 379
+Processing file 285/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001299.i3.zst
+Len of pulse frames 285
+Length of meta frames 285
+Event counts= 366
+Processing file 286/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001300.i3.zst
+Len of pulse frames 286
+Length of meta frames 286
+Event counts= 382
+Processing file 287/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001301.i3.zst
+Len of pulse frames 287
+Length of meta frames 287
+Event counts= 376
+Processing file 288/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001302.i3.zst
+Len of pulse frames 288
+Length of meta frames 288
+Event counts= 367
+Processing file 289/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001303.i3.zst
+Len of pulse frames 289
+Length of meta frames 289
+Event counts= 410
+Processing file 290/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001304.i3.zst
+Len of pulse frames 290
+Length of meta frames 290
+Event counts= 352
+Processing file 291/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001305.i3.zst
+Len of pulse frames 291
+Length of meta frames 291
+Event counts= 357
+Processing file 292/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001306.i3.zst
+Len of pulse frames 292
+Length of meta frames 292
+Event counts= 355
+Processing file 293/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001307.i3.zst
+Len of pulse frames 293
+Length of meta frames 293
+Event counts= 371
+Processing file 294/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001308.i3.zst
+Len of pulse frames 294
+Length of meta frames 294
+Event counts= 390
+Processing file 295/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001309.i3.zst
+Len of pulse frames 295
+Length of meta frames 295
+Event counts= 373
+Processing file 296/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001310.i3.zst
+Len of pulse frames 296
+Length of meta frames 296
+Event counts= 396
+Processing file 297/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001311.i3.zst
+Len of pulse frames 297
+Length of meta frames 297
+Event counts= 384
+Processing file 298/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001312.i3.zst
+Len of pulse frames 298
+Length of meta frames 298
+Event counts= 355
+Processing file 299/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001313.i3.zst
+Len of pulse frames 299
+Length of meta frames 299
+Event counts= 352
+Processing file 300/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001314.i3.zst
+Len of pulse frames 300
+Length of meta frames 300
+Event counts= 370
+Processing file 301/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001315.i3.zst
+Len of pulse frames 301
+Length of meta frames 301
+Event counts= 375
+Processing file 302/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001316.i3.zst
+Len of pulse frames 302
+Length of meta frames 302
+Event counts= 392
+Processing file 303/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001317.i3.zst
+Len of pulse frames 303
+Length of meta frames 303
+Event counts= 346
+Processing file 304/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001318.i3.zst
+Len of pulse frames 304
+Length of meta frames 304
+Event counts= 355
+Processing file 305/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001319.i3.zst
+Len of pulse frames 305
+Length of meta frames 305
+Event counts= 351
+Processing file 306/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001320.i3.zst
+Len of pulse frames 306
+Length of meta frames 306
+Event counts= 340
+Processing file 307/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001321.i3.zst
+Len of pulse frames 307
+Length of meta frames 307
+Event counts= 371
+Processing file 308/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001322.i3.zst
+Len of pulse frames 308
+Length of meta frames 308
+Event counts= 374
+Processing file 309/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001323.i3.zst
+Len of pulse frames 309
+Length of meta frames 309
+Event counts= 372
+Processing file 310/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001324.i3.zst
+Len of pulse frames 310
+Length of meta frames 310
+Event counts= 397
+Processing file 311/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001325.i3.zst
+Len of pulse frames 311
+Length of meta frames 311
+Event counts= 361
+Processing file 312/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001326.i3.zst
+Len of pulse frames 312
+Length of meta frames 312
+Event counts= 341
+Processing file 313/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001327.i3.zst
+Len of pulse frames 313
+Length of meta frames 313
+Event counts= 373
+Processing file 314/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001328.i3.zst
+Len of pulse frames 314
+Length of meta frames 314
+Event counts= 368
+Processing file 315/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001329.i3.zst
+Len of pulse frames 315
+Length of meta frames 315
+Event counts= 357
+Processing file 316/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001330.i3.zst
+Len of pulse frames 316
+Length of meta frames 316
+Event counts= 360
+Processing file 317/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001331.i3.zst
+Len of pulse frames 317
+Length of meta frames 317
+Event counts= 394
+Processing file 318/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001332.i3.zst
+Len of pulse frames 318
+Length of meta frames 318
+Event counts= 314
+Processing file 319/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001333.i3.zst
+Len of pulse frames 319
+Length of meta frames 319
+Event counts= 349
+Processing file 320/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001334.i3.zst
+Len of pulse frames 320
+Length of meta frames 320
+Event counts= 358
+Processing file 321/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001335.i3.zst
+Len of pulse frames 321
+Length of meta frames 321
+Event counts= 377
+Processing file 322/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001336.i3.zst
+Len of pulse frames 322
+Length of meta frames 322
+Event counts= 360
+Processing file 323/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001337.i3.zst
+Len of pulse frames 323
+Length of meta frames 323
+Event counts= 333
+Processing file 324/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001338.i3.zst
+Len of pulse frames 324
+Length of meta frames 324
+Event counts= 367
+Processing file 325/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001339.i3.zst
+Len of pulse frames 325
+Length of meta frames 325
+Event counts= 324
+Processing file 326/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001340.i3.zst
+Len of pulse frames 326
+Length of meta frames 326
+Event counts= 354
+Processing file 327/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001341.i3.zst
+Len of pulse frames 327
+Length of meta frames 327
+Event counts= 372
+Processing file 328/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001342.i3.zst
+Len of pulse frames 328
+Length of meta frames 328
+Event counts= 379
+Processing file 329/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001343.i3.zst
+Len of pulse frames 329
+Length of meta frames 329
+Event counts= 404
+Processing file 330/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001345.i3.zst
+Len of pulse frames 330
+Length of meta frames 330
+Event counts= 339
+Processing file 331/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001346.i3.zst
+Len of pulse frames 331
+Length of meta frames 331
+Event counts= 363
+Processing file 332/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001347.i3.zst
+Len of pulse frames 332
+Length of meta frames 332
+Event counts= 341
+Processing file 333/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001348.i3.zst
+Len of pulse frames 333
+Length of meta frames 333
+Event counts= 396
+Processing file 334/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001349.i3.zst
+Len of pulse frames 334
+Length of meta frames 334
+Event counts= 363
+Processing file 335/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001350.i3.zst
+Len of pulse frames 335
+Length of meta frames 335
+Event counts= 348
+Processing file 336/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001352.i3.zst
+Len of pulse frames 336
+Length of meta frames 336
+Event counts= 367
+Processing file 337/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001353.i3.zst
+Len of pulse frames 337
+Length of meta frames 337
+Event counts= 389
+Processing file 338/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001354.i3.zst
+Len of pulse frames 338
+Length of meta frames 338
+Event counts= 365
+Processing file 339/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001355.i3.zst
+Len of pulse frames 339
+Length of meta frames 339
+Event counts= 384
+Processing file 340/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001356.i3.zst
+Len of pulse frames 340
+Length of meta frames 340
+Event counts= 353
+Processing file 341/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001357.i3.zst
+Len of pulse frames 341
+Length of meta frames 341
+Event counts= 358
+Processing file 342/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001358.i3.zst
+Len of pulse frames 342
+Length of meta frames 342
+Event counts= 334
+Processing file 343/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001359.i3.zst
+Len of pulse frames 343
+Length of meta frames 343
+Event counts= 372
+Processing file 344/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001360.i3.zst
+Len of pulse frames 344
+Length of meta frames 344
+Event counts= 347
+Processing file 345/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001361.i3.zst
+Len of pulse frames 345
+Length of meta frames 345
+Event counts= 343
+Processing file 346/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001362.i3.zst
+Len of pulse frames 346
+Length of meta frames 346
+Event counts= 388
+Processing file 347/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001363.i3.zst
+Len of pulse frames 347
+Length of meta frames 347
+Event counts= 359
+Processing file 348/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001364.i3.zst
+Len of pulse frames 348
+Length of meta frames 348
+Event counts= 354
+Processing file 349/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001366.i3.zst
+Len of pulse frames 349
+Length of meta frames 349
+Event counts= 347
+Processing file 350/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001367.i3.zst
+Len of pulse frames 350
+Length of meta frames 350
+Event counts= 354
+Processing file 351/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001368.i3.zst
+Len of pulse frames 351
+Length of meta frames 351
+Event counts= 373
+Processing file 352/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001369.i3.zst
+Len of pulse frames 352
+Length of meta frames 352
+Event counts= 351
+Processing file 353/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001370.i3.zst
+Len of pulse frames 353
+Length of meta frames 353
+Event counts= 387
+Processing file 354/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001371.i3.zst
+Len of pulse frames 354
+Length of meta frames 354
+Event counts= 375
+Processing file 355/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001372.i3.zst
+Len of pulse frames 355
+Length of meta frames 355
+Event counts= 360
+Processing file 356/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001373.i3.zst
+Len of pulse frames 356
+Length of meta frames 356
+Event counts= 368
+Processing file 357/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001374.i3.zst
+Len of pulse frames 357
+Length of meta frames 357
+Event counts= 343
+Processing file 358/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001375.i3.zst
+Len of pulse frames 358
+Length of meta frames 358
+Event counts= 365
+Processing file 359/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001376.i3.zst
+Len of pulse frames 359
+Length of meta frames 359
+Event counts= 382
+Processing file 360/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001377.i3.zst
+Len of pulse frames 360
+Length of meta frames 360
+Event counts= 334
+Processing file 361/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001378.i3.zst
+Len of pulse frames 361
+Length of meta frames 361
+Event counts= 358
+Processing file 362/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001379.i3.zst
+Len of pulse frames 362
+Length of meta frames 362
+Event counts= 345
+Processing file 363/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001380.i3.zst
+Len of pulse frames 363
+Length of meta frames 363
+Event counts= 379
+Processing file 364/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001381.i3.zst
+Len of pulse frames 364
+Length of meta frames 364
+Event counts= 348
+Processing file 365/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001382.i3.zst
+Len of pulse frames 365
+Length of meta frames 365
+Event counts= 370
+Processing file 366/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001383.i3.zst
+Len of pulse frames 366
+Length of meta frames 366
+Event counts= 353
+Processing file 367/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001384.i3.zst
+Len of pulse frames 367
+Length of meta frames 367
+Event counts= 372
+Processing file 368/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001385.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 368
+Length of meta frames 368
+Event counts= 387
+Processing file 369/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001386.i3.zst
+Len of pulse frames 369
+Length of meta frames 369
+Event counts= 390
+Processing file 370/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001387.i3.zst
+Error
+Not a CC interaction. Skip!
+Len of pulse frames 370
+Length of meta frames 370
+Event counts= 367
+Processing file 371/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001388.i3.zst
+Len of pulse frames 371
+Length of meta frames 371
+Event counts= 366
+Processing file 372/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001389.i3.zst
+Len of pulse frames 372
+Length of meta frames 372
+Event counts= 380
+Processing file 373/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001390.i3.zst
+Len of pulse frames 373
+Length of meta frames 373
+Event counts= 355
+Processing file 374/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001391.i3.zst
+Len of pulse frames 374
+Length of meta frames 374
+Event counts= 370
+Processing file 375/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001392.i3.zst
+Len of pulse frames 375
+Length of meta frames 375
+Event counts= 397
+Processing file 376/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001393.i3.zst
+Len of pulse frames 376
+Length of meta frames 376
+Event counts= 386
+Processing file 377/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001394.i3.zst
+Len of pulse frames 377
+Length of meta frames 377
+Event counts= 346
+Processing file 378/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001395.i3.zst
+Len of pulse frames 378
+Length of meta frames 378
+Event counts= 328
+Processing file 379/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001396.i3.zst
+Len of pulse frames 379
+Length of meta frames 379
+Event counts= 355
+Processing file 380/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001397.i3.zst
+Len of pulse frames 380
+Length of meta frames 380
+Event counts= 389
+Processing file 381/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001398.i3.zst
+Len of pulse frames 381
+Length of meta frames 381
+Event counts= 376
+Processing file 382/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001399.i3.zst
+Len of pulse frames 382
+Length of meta frames 382
+Event counts= 355
+Processing file 383/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001400.i3.zst
+Len of pulse frames 383
+Length of meta frames 383
+Event counts= 392
+Processing file 384/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001401.i3.zst
+Len of pulse frames 384
+Length of meta frames 384
+Event counts= 389
+Processing file 385/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001402.i3.zst
+Len of pulse frames 385
+Length of meta frames 385
+Event counts= 361
+Processing file 386/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001403.i3.zst
+Len of pulse frames 386
+Length of meta frames 386
+Event counts= 385
+Processing file 387/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001404.i3.zst
+Len of pulse frames 387
+Length of meta frames 387
+Event counts= 327
+Processing file 388/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001405.i3.zst
+Len of pulse frames 388
+Length of meta frames 388
+Event counts= 389
+Processing file 389/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001406.i3.zst
+Len of pulse frames 389
+Length of meta frames 389
+Event counts= 333
+Processing file 390/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001408.i3.zst
+Len of pulse frames 390
+Length of meta frames 390
+Event counts= 393
+Processing file 391/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001409.i3.zst
+Len of pulse frames 391
+Length of meta frames 391
+Event counts= 382
+Processing file 392/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001410.i3.zst
+Len of pulse frames 392
+Length of meta frames 392
+Event counts= 385
+Processing file 393/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001411.i3.zst
+Len of pulse frames 393
+Length of meta frames 393
+Event counts= 377
+Processing file 394/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001412.i3.zst
+Len of pulse frames 394
+Length of meta frames 394
+Event counts= 349
+Processing file 395/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001413.i3.zst
+Len of pulse frames 395
+Length of meta frames 395
+Event counts= 348
+Processing file 396/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001414.i3.zst
+Len of pulse frames 396
+Length of meta frames 396
+Event counts= 346
+Processing file 397/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001415.i3.zst
+Len of pulse frames 397
+Length of meta frames 397
+Event counts= 409
+Processing file 398/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001416.i3.zst
+Len of pulse frames 398
+Length of meta frames 398
+Event counts= 351
+Processing file 399/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001417.i3.zst
+Len of pulse frames 399
+Length of meta frames 399
+Event counts= 384
+Processing file 400/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001418.i3.zst
+Len of pulse frames 400
+Length of meta frames 400
+Event counts= 402
+Processing file 401/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001419.i3.zst
+Len of pulse frames 401
+Length of meta frames 401
+Event counts= 378
+Processing file 402/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001420.i3.zst
+Len of pulse frames 402
+Length of meta frames 402
+Event counts= 348
+Processing file 403/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001421.i3.zst
+Len of pulse frames 403
+Length of meta frames 403
+Event counts= 367
+Processing file 404/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001422.i3.zst
+Len of pulse frames 404
+Length of meta frames 404
+Event counts= 373
+Processing file 405/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001423.i3.zst
+Len of pulse frames 405
+Length of meta frames 405
+Event counts= 341
+Processing file 406/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001424.i3.zst
+Len of pulse frames 406
+Length of meta frames 406
+Event counts= 327
+Processing file 407/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001425.i3.zst
+Len of pulse frames 407
+Length of meta frames 407
+Event counts= 401
+Processing file 408/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001426.i3.zst
+Len of pulse frames 408
+Length of meta frames 408
+Event counts= 374
+Processing file 409/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001427.i3.zst
+Len of pulse frames 409
+Length of meta frames 409
+Event counts= 372
+Processing file 410/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001429.i3.zst
+Len of pulse frames 410
+Length of meta frames 410
+Event counts= 373
+Processing file 411/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001430.i3.zst
+Len of pulse frames 411
+Length of meta frames 411
+Event counts= 349
+Processing file 412/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001431.i3.zst
+Len of pulse frames 412
+Length of meta frames 412
+Event counts= 400
+Processing file 413/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001432.i3.zst
+Len of pulse frames 413
+Length of meta frames 413
+Event counts= 351
+Processing file 414/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001433.i3.zst
+Len of pulse frames 414
+Length of meta frames 414
+Event counts= 370
+Processing file 415/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001434.i3.zst
+Len of pulse frames 415
+Length of meta frames 415
+Event counts= 396
+Processing file 416/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001435.i3.zst
+Len of pulse frames 416
+Length of meta frames 416
+Event counts= 397
+Processing file 417/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001436.i3.zst
+Len of pulse frames 417
+Length of meta frames 417
+Event counts= 358
+Processing file 418/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001437.i3.zst
+Len of pulse frames 418
+Length of meta frames 418
+Event counts= 379
+Processing file 419/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001438.i3.zst
+Len of pulse frames 419
+Length of meta frames 419
+Event counts= 388
+Processing file 420/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001439.i3.zst
+Len of pulse frames 420
+Length of meta frames 420
+Event counts= 334
+Processing file 421/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001440.i3.zst
+Len of pulse frames 421
+Length of meta frames 421
+Event counts= 368
+Processing file 422/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001441.i3.zst
+Len of pulse frames 422
+Length of meta frames 422
+Event counts= 368
+Processing file 423/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001443.i3.zst
+Len of pulse frames 423
+Length of meta frames 423
+Event counts= 334
+Processing file 424/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001444.i3.zst
+Len of pulse frames 424
+Length of meta frames 424
+Event counts= 353
+Processing file 425/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001445.i3.zst
+Len of pulse frames 425
+Length of meta frames 425
+Event counts= 343
+Processing file 426/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001446.i3.zst
+Len of pulse frames 426
+Length of meta frames 426
+Event counts= 371
+Processing file 427/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001447.i3.zst
+Len of pulse frames 427
+Length of meta frames 427
+Event counts= 346
+Processing file 428/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001448.i3.zst
+Len of pulse frames 428
+Length of meta frames 428
+Event counts= 386
+Processing file 429/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001449.i3.zst
+Len of pulse frames 429
+Length of meta frames 429
+Event counts= 394
+Processing file 430/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001450.i3.zst
+Len of pulse frames 430
+Length of meta frames 430
+Event counts= 364
+Processing file 431/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001451.i3.zst
+Len of pulse frames 431
+Length of meta frames 431
+Event counts= 373
+Processing file 432/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001452.i3.zst
+Len of pulse frames 432
+Length of meta frames 432
+Event counts= 366
+Processing file 433/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001453.i3.zst
+Len of pulse frames 433
+Length of meta frames 433
+Event counts= 377
+Processing file 434/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001454.i3.zst
+Len of pulse frames 434
+Length of meta frames 434
+Event counts= 361
+Processing file 435/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001455.i3.zst
+Len of pulse frames 435
+Length of meta frames 435
+Event counts= 363
+Processing file 436/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001456.i3.zst
+Len of pulse frames 436
+Length of meta frames 436
+Event counts= 344
+Processing file 437/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001457.i3.zst
+Len of pulse frames 437
+Length of meta frames 437
+Event counts= 390
+Processing file 438/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001458.i3.zst
+Len of pulse frames 438
+Length of meta frames 438
+Event counts= 336
+Processing file 439/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001459.i3.zst
+Len of pulse frames 439
+Length of meta frames 439
+Event counts= 431
+Processing file 440/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001460.i3.zst
+Len of pulse frames 440
+Length of meta frames 440
+Event counts= 400
+Processing file 441/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001461.i3.zst
+Len of pulse frames 441
+Length of meta frames 441
+Event counts= 382
+Processing file 442/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001462.i3.zst
+Len of pulse frames 442
+Length of meta frames 442
+Event counts= 377
+Processing file 443/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001463.i3.zst
+Len of pulse frames 443
+Length of meta frames 443
+Event counts= 365
+Processing file 444/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001464.i3.zst
+Len of pulse frames 444
+Length of meta frames 444
+Event counts= 362
+Processing file 445/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001465.i3.zst
+Len of pulse frames 445
+Length of meta frames 445
+Event counts= 345
+Processing file 446/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001466.i3.zst
+Len of pulse frames 446
+Length of meta frames 446
+Event counts= 365
+Processing file 447/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001467.i3.zst
+Len of pulse frames 447
+Length of meta frames 447
+Event counts= 378
+Processing file 448/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001468.i3.zst
+Len of pulse frames 448
+Length of meta frames 448
+Event counts= 358
+Processing file 449/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001469.i3.zst
+Len of pulse frames 449
+Length of meta frames 449
+Event counts= 343
+Processing file 450/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001470.i3.zst
+Len of pulse frames 450
+Length of meta frames 450
+Event counts= 360
+Processing file 451/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001471.i3.zst
+Len of pulse frames 451
+Length of meta frames 451
+Event counts= 364
+Processing file 452/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001472.i3.zst
+Len of pulse frames 452
+Length of meta frames 452
+Event counts= 363
+Processing file 453/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001473.i3.zst
+Len of pulse frames 453
+Length of meta frames 453
+Event counts= 357
+Processing file 454/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001474.i3.zst
+Len of pulse frames 454
+Length of meta frames 454
+Event counts= 365
+Processing file 455/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001475.i3.zst
+Len of pulse frames 455
+Length of meta frames 455
+Event counts= 396
+Processing file 456/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001476.i3.zst
+Len of pulse frames 456
+Length of meta frames 456
+Event counts= 350
+Processing file 457/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001477.i3.zst
+Len of pulse frames 457
+Length of meta frames 457
+Event counts= 338
+Processing file 458/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001478.i3.zst
+Len of pulse frames 458
+Length of meta frames 458
+Event counts= 346
+Processing file 459/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001479.i3.zst
+Len of pulse frames 459
+Length of meta frames 459
+Event counts= 380
+Processing file 460/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001480.i3.zst
+Len of pulse frames 460
+Length of meta frames 460
+Event counts= 385
+Processing file 461/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001481.i3.zst
+Len of pulse frames 461
+Length of meta frames 461
+Event counts= 353
+Processing file 462/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001482.i3.zst
+Len of pulse frames 462
+Length of meta frames 462
+Event counts= 376
+Processing file 463/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001483.i3.zst
+Len of pulse frames 463
+Length of meta frames 463
+Event counts= 336
+Processing file 464/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001484.i3.zst
+Len of pulse frames 464
+Length of meta frames 464
+Event counts= 401
+Processing file 465/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001485.i3.zst
+Len of pulse frames 465
+Length of meta frames 465
+Event counts= 385
+Processing file 466/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001486.i3.zst
+Len of pulse frames 466
+Length of meta frames 466
+Event counts= 394
+Processing file 467/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001487.i3.zst
+Len of pulse frames 467
+Length of meta frames 467
+Event counts= 341
+Processing file 468/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001488.i3.zst
+Len of pulse frames 468
+Length of meta frames 468
+Event counts= 405
+Processing file 469/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001490.i3.zst
+Len of pulse frames 469
+Length of meta frames 469
+Event counts= 376
+Processing file 470/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001491.i3.zst
+Len of pulse frames 470
+Length of meta frames 470
+Event counts= 396
+Processing file 471/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001492.i3.zst
+Len of pulse frames 471
+Length of meta frames 471
+Event counts= 339
+Processing file 472/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001494.i3.zst
+Len of pulse frames 472
+Length of meta frames 472
+Event counts= 392
+Processing file 473/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001495.i3.zst
+Len of pulse frames 473
+Length of meta frames 473
+Event counts= 337
+Processing file 474/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001496.i3.zst
+Len of pulse frames 474
+Length of meta frames 474
+Event counts= 382
+Processing file 475/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001498.i3.zst
+Len of pulse frames 475
+Length of meta frames 475
+Event counts= 354
+Processing file 476/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001499.i3.zst
+Len of pulse frames 476
+Length of meta frames 476
+Event counts= 352
+Processing file 477/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001500.i3.zst
+Len of pulse frames 477
+Length of meta frames 477
+Event counts= 347
+Processing file 478/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001502.i3.zst
+Len of pulse frames 478
+Length of meta frames 478
+Event counts= 359
+Processing file 479/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001503.i3.zst
+Len of pulse frames 479
+Length of meta frames 479
+Event counts= 345
+Processing file 480/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001504.i3.zst
+Len of pulse frames 480
+Length of meta frames 480
+Event counts= 321
+Processing file 481/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001505.i3.zst
+Len of pulse frames 481
+Length of meta frames 481
+Event counts= 389
+Processing file 482/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001506.i3.zst
+Len of pulse frames 482
+Length of meta frames 482
+Event counts= 378
+Processing file 483/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001507.i3.zst
+Len of pulse frames 483
+Length of meta frames 483
+Event counts= 339
+Processing file 484/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001508.i3.zst
+Len of pulse frames 484
+Length of meta frames 484
+Event counts= 351
+Processing file 485/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001509.i3.zst
+Len of pulse frames 485
+Length of meta frames 485
+Event counts= 332
+Processing file 486/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001510.i3.zst
+Len of pulse frames 486
+Length of meta frames 486
+Event counts= 376
+Processing file 487/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001511.i3.zst
+Len of pulse frames 487
+Length of meta frames 487
+Event counts= 367
+Processing file 488/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001512.i3.zst
+Len of pulse frames 488
+Length of meta frames 488
+Event counts= 369
+Processing file 489/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001513.i3.zst
+Len of pulse frames 489
+Length of meta frames 489
+Event counts= 396
+Processing file 490/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001514.i3.zst
+Len of pulse frames 490
+Length of meta frames 490
+Event counts= 357
+Processing file 491/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001515.i3.zst
+Len of pulse frames 491
+Length of meta frames 491
+Event counts= 346
+Processing file 492/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001516.i3.zst
+Len of pulse frames 492
+Length of meta frames 492
+Event counts= 332
+Processing file 493/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001517.i3.zst
+Len of pulse frames 493
+Length of meta frames 493
+Event counts= 339
+Processing file 494/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001518.i3.zst
+Len of pulse frames 494
+Length of meta frames 494
+Event counts= 361
+Processing file 495/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001519.i3.zst
+Len of pulse frames 495
+Length of meta frames 495
+Event counts= 359
+Processing file 496/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001520.i3.zst
+Len of pulse frames 496
+Length of meta frames 496
+Event counts= 357
+Processing file 497/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001521.i3.zst
+Len of pulse frames 497
+Length of meta frames 497
+Event counts= 367
+Processing file 498/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001522.i3.zst
+Len of pulse frames 498
+Length of meta frames 498
+Event counts= 381
+Processing file 499/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001523.i3.zst
+Len of pulse frames 499
+Length of meta frames 499
+Event counts= 364
+Processing file 500/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001524.i3.zst
+Len of pulse frames 500
+Length of meta frames 500
+Event counts= 348
+Processing file 501/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001525.i3.zst
+Len of pulse frames 501
+Length of meta frames 501
+Event counts= 378
+Processing file 502/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001526.i3.zst
+Len of pulse frames 502
+Length of meta frames 502
+Event counts= 342
+Processing file 503/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001527.i3.zst
+Len of pulse frames 503
+Length of meta frames 503
+Event counts= 383
+Processing file 504/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001529.i3.zst
+Len of pulse frames 504
+Length of meta frames 504
+Event counts= 375
+Processing file 505/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001530.i3.zst
+Len of pulse frames 505
+Length of meta frames 505
+Event counts= 357
+Processing file 506/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001531.i3.zst
+Len of pulse frames 506
+Length of meta frames 506
+Event counts= 367
+Processing file 507/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001532.i3.zst
+Len of pulse frames 507
+Length of meta frames 507
+Event counts= 350
+Processing file 508/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001533.i3.zst
+Len of pulse frames 508
+Length of meta frames 508
+Event counts= 384
+Processing file 509/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001534.i3.zst
+Len of pulse frames 509
+Length of meta frames 509
+Event counts= 349
+Processing file 510/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001535.i3.zst
+Len of pulse frames 510
+Length of meta frames 510
+Event counts= 389
+Processing file 511/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001536.i3.zst
+Len of pulse frames 511
+Length of meta frames 511
+Event counts= 361
+Processing file 512/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001538.i3.zst
+Len of pulse frames 512
+Length of meta frames 512
+Event counts= 393
+Processing file 513/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001539.i3.zst
+Len of pulse frames 513
+Length of meta frames 513
+Event counts= 352
+Processing file 514/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001540.i3.zst
+Len of pulse frames 514
+Length of meta frames 514
+Event counts= 385
+Processing file 515/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001541.i3.zst
+Len of pulse frames 515
+Length of meta frames 515
+Event counts= 354
+Processing file 516/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001542.i3.zst
+Len of pulse frames 516
+Length of meta frames 516
+Event counts= 369
+Processing file 517/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001543.i3.zst
+Len of pulse frames 517
+Length of meta frames 517
+Event counts= 342
+Processing file 518/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001544.i3.zst
+Len of pulse frames 518
+Length of meta frames 518
+Event counts= 375
+Processing file 519/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001545.i3.zst
+Len of pulse frames 519
+Length of meta frames 519
+Event counts= 352
+Processing file 520/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001546.i3.zst
+Len of pulse frames 520
+Length of meta frames 520
+Event counts= 356
+Processing file 521/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001547.i3.zst
+Len of pulse frames 521
+Length of meta frames 521
+Event counts= 364
+Processing file 522/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001548.i3.zst
+Len of pulse frames 522
+Length of meta frames 522
+Event counts= 378
+Processing file 523/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001549.i3.zst
+Len of pulse frames 523
+Length of meta frames 523
+Event counts= 354
+Processing file 524/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001550.i3.zst
+Len of pulse frames 524
+Length of meta frames 524
+Event counts= 371
+Processing file 525/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001551.i3.zst
+Len of pulse frames 525
+Length of meta frames 525
+Event counts= 371
+Processing file 526/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001552.i3.zst
+Len of pulse frames 526
+Length of meta frames 526
+Event counts= 312
+Processing file 527/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001553.i3.zst
+Len of pulse frames 527
+Length of meta frames 527
+Event counts= 351
+Processing file 528/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001554.i3.zst
+Len of pulse frames 528
+Length of meta frames 528
+Event counts= 395
+Processing file 529/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001555.i3.zst
+Len of pulse frames 529
+Length of meta frames 529
+Event counts= 382
+Processing file 530/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001556.i3.zst
+Len of pulse frames 530
+Length of meta frames 530
+Event counts= 359
+Processing file 531/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001557.i3.zst
+Len of pulse frames 531
+Length of meta frames 531
+Event counts= 343
+Processing file 532/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001558.i3.zst
+Len of pulse frames 532
+Length of meta frames 532
+Event counts= 382
+Processing file 533/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001559.i3.zst
+Len of pulse frames 533
+Length of meta frames 533
+Event counts= 390
+Processing file 534/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001560.i3.zst
+Len of pulse frames 534
+Length of meta frames 534
+Event counts= 368
+Processing file 535/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001561.i3.zst
+Len of pulse frames 535
+Length of meta frames 535
+Event counts= 375
+Processing file 536/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001562.i3.zst
+Len of pulse frames 536
+Length of meta frames 536
+Event counts= 358
+Processing file 537/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001563.i3.zst
+Len of pulse frames 537
+Length of meta frames 537
+Event counts= 389
+Processing file 538/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001564.i3.zst
+Len of pulse frames 538
+Length of meta frames 538
+Event counts= 383
+Processing file 539/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001565.i3.zst
+Len of pulse frames 539
+Length of meta frames 539
+Event counts= 373
+Processing file 540/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001566.i3.zst
+Len of pulse frames 540
+Length of meta frames 540
+Event counts= 389
+Processing file 541/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001568.i3.zst
+Len of pulse frames 541
+Length of meta frames 541
+Event counts= 340
+Processing file 542/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001569.i3.zst
+Len of pulse frames 542
+Length of meta frames 542
+Event counts= 358
+Processing file 543/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001570.i3.zst
+Len of pulse frames 543
+Length of meta frames 543
+Event counts= 389
+Processing file 544/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001571.i3.zst
+Len of pulse frames 544
+Length of meta frames 544
+Event counts= 384
+Processing file 545/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001572.i3.zst
+Len of pulse frames 545
+Length of meta frames 545
+Event counts= 344
+Processing file 546/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001573.i3.zst
+Len of pulse frames 546
+Length of meta frames 546
+Event counts= 372
+Processing file 547/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001574.i3.zst
+Len of pulse frames 547
+Length of meta frames 547
+Event counts= 366
+Processing file 548/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001575.i3.zst
+Len of pulse frames 548
+Length of meta frames 548
+Event counts= 357
+Processing file 549/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001576.i3.zst
+Len of pulse frames 549
+Length of meta frames 549
+Event counts= 383
+Processing file 550/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001577.i3.zst
+Len of pulse frames 550
+Length of meta frames 550
+Event counts= 364
+Processing file 551/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001578.i3.zst
+Len of pulse frames 551
+Length of meta frames 551
+Event counts= 381
+Processing file 552/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001579.i3.zst
+Len of pulse frames 552
+Length of meta frames 552
+Event counts= 321
+Processing file 553/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001580.i3.zst
+Len of pulse frames 553
+Length of meta frames 553
+Event counts= 364
+Processing file 554/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001581.i3.zst
+Len of pulse frames 554
+Length of meta frames 554
+Event counts= 363
+Processing file 555/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001582.i3.zst
+Len of pulse frames 555
+Length of meta frames 555
+Event counts= 377
+Processing file 556/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001583.i3.zst
+Len of pulse frames 556
+Length of meta frames 556
+Event counts= 363
+Processing file 557/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001584.i3.zst
+Len of pulse frames 557
+Length of meta frames 557
+Event counts= 388
+Processing file 558/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001585.i3.zst
+Len of pulse frames 558
+Length of meta frames 558
+Event counts= 358
+Processing file 559/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001586.i3.zst
+Len of pulse frames 559
+Length of meta frames 559
+Event counts= 361
+Processing file 560/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001587.i3.zst
+Len of pulse frames 560
+Length of meta frames 560
+Event counts= 362
+Processing file 561/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001588.i3.zst
+Len of pulse frames 561
+Length of meta frames 561
+Event counts= 381
+Processing file 562/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001589.i3.zst
+Len of pulse frames 562
+Length of meta frames 562
+Event counts= 371
+Processing file 563/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001590.i3.zst
+Len of pulse frames 563
+Length of meta frames 563
+Event counts= 401
+Processing file 564/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001591.i3.zst
+Len of pulse frames 564
+Length of meta frames 564
+Event counts= 360
+Processing file 565/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001592.i3.zst
+Len of pulse frames 565
+Length of meta frames 565
+Event counts= 386
+Processing file 566/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001593.i3.zst
+Len of pulse frames 566
+Length of meta frames 566
+Event counts= 392
+Processing file 567/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001594.i3.zst
+Len of pulse frames 567
+Length of meta frames 567
+Event counts= 355
+Processing file 568/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001595.i3.zst
+Len of pulse frames 568
+Length of meta frames 568
+Event counts= 385
+Processing file 569/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001596.i3.zst
+Len of pulse frames 569
+Length of meta frames 569
+Event counts= 354
+Processing file 570/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001597.i3.zst
+Len of pulse frames 570
+Length of meta frames 570
+Event counts= 364
+Processing file 571/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001598.i3.zst
+Len of pulse frames 571
+Length of meta frames 571
+Event counts= 327
+Processing file 572/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001599.i3.zst
+Len of pulse frames 572
+Length of meta frames 572
+Event counts= 351
+Processing file 573/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001600.i3.zst
+Len of pulse frames 573
+Length of meta frames 573
+Event counts= 355
+Processing file 574/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001601.i3.zst
+Len of pulse frames 574
+Length of meta frames 574
+Event counts= 362
+Processing file 575/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001602.i3.zst
+Len of pulse frames 575
+Length of meta frames 575
+Event counts= 401
+Processing file 576/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001603.i3.zst
+Len of pulse frames 576
+Length of meta frames 576
+Event counts= 346
+Processing file 577/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001604.i3.zst
+Len of pulse frames 577
+Length of meta frames 577
+Event counts= 377
+Processing file 578/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001605.i3.zst
+Len of pulse frames 578
+Length of meta frames 578
+Event counts= 339
+Processing file 579/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001606.i3.zst
+Len of pulse frames 579
+Length of meta frames 579
+Event counts= 367
+Processing file 580/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001607.i3.zst
+Len of pulse frames 580
+Length of meta frames 580
+Event counts= 339
+Processing file 581/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001608.i3.zst
+Len of pulse frames 581
+Length of meta frames 581
+Event counts= 381
+Processing file 582/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001609.i3.zst
+Len of pulse frames 582
+Length of meta frames 582
+Event counts= 348
+Processing file 583/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001610.i3.zst
+Len of pulse frames 583
+Length of meta frames 583
+Event counts= 361
+Processing file 584/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001611.i3.zst
+Len of pulse frames 584
+Length of meta frames 584
+Event counts= 390
+Processing file 585/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001612.i3.zst
+Len of pulse frames 585
+Length of meta frames 585
+Event counts= 390
+Processing file 586/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001613.i3.zst
+Len of pulse frames 586
+Length of meta frames 586
+Event counts= 379
+Processing file 587/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001614.i3.zst
+Len of pulse frames 587
+Length of meta frames 587
+Event counts= 390
+Processing file 588/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001616.i3.zst
+Len of pulse frames 588
+Length of meta frames 588
+Event counts= 354
+Processing file 589/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001617.i3.zst
+Len of pulse frames 589
+Length of meta frames 589
+Event counts= 358
+Processing file 590/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001618.i3.zst
+Len of pulse frames 590
+Length of meta frames 590
+Event counts= 328
+Processing file 591/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001619.i3.zst
+Len of pulse frames 591
+Length of meta frames 591
+Event counts= 362
+Processing file 592/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001620.i3.zst
+Len of pulse frames 592
+Length of meta frames 592
+Event counts= 377
+Processing file 593/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001621.i3.zst
+Len of pulse frames 593
+Length of meta frames 593
+Event counts= 359
+Processing file 594/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001622.i3.zst
+Len of pulse frames 594
+Length of meta frames 594
+Event counts= 360
+Processing file 595/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001623.i3.zst
+Len of pulse frames 595
+Length of meta frames 595
+Event counts= 364
+Processing file 596/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001624.i3.zst
+Len of pulse frames 596
+Length of meta frames 596
+Event counts= 352
+Processing file 597/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001626.i3.zst
+Len of pulse frames 597
+Length of meta frames 597
+Event counts= 354
+Processing file 598/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001627.i3.zst
+Len of pulse frames 598
+Length of meta frames 598
+Event counts= 361
+Processing file 599/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001628.i3.zst
+Len of pulse frames 599
+Length of meta frames 599
+Event counts= 367
+Processing file 600/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001629.i3.zst
+Len of pulse frames 600
+Length of meta frames 600
+Event counts= 340
+Processing file 601/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001630.i3.zst
+Len of pulse frames 601
+Length of meta frames 601
+Event counts= 387
+Processing file 602/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001631.i3.zst
+Len of pulse frames 602
+Length of meta frames 602
+Event counts= 376
+Processing file 603/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001632.i3.zst
+Len of pulse frames 603
+Length of meta frames 603
+Event counts= 376
+Processing file 604/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001633.i3.zst
+Len of pulse frames 604
+Length of meta frames 604
+Event counts= 369
+Processing file 605/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001634.i3.zst
+Len of pulse frames 605
+Length of meta frames 605
+Event counts= 400
+Processing file 606/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001635.i3.zst
+Len of pulse frames 606
+Length of meta frames 606
+Event counts= 362
+Processing file 607/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001636.i3.zst
+Len of pulse frames 607
+Length of meta frames 607
+Event counts= 335
+Processing file 608/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001637.i3.zst
+Len of pulse frames 608
+Length of meta frames 608
+Event counts= 363
+Processing file 609/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001638.i3.zst
+Len of pulse frames 609
+Length of meta frames 609
+Event counts= 389
+Processing file 610/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001639.i3.zst
+Len of pulse frames 610
+Length of meta frames 610
+Event counts= 366
+Processing file 611/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001640.i3.zst
+Len of pulse frames 611
+Length of meta frames 611
+Event counts= 372
+Processing file 612/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001641.i3.zst
+Len of pulse frames 612
+Length of meta frames 612
+Event counts= 336
+Processing file 613/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001642.i3.zst
+Len of pulse frames 613
+Length of meta frames 613
+Event counts= 371
+Processing file 614/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001643.i3.zst
+Len of pulse frames 614
+Length of meta frames 614
+Event counts= 378
+Processing file 615/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001645.i3.zst
+Len of pulse frames 615
+Length of meta frames 615
+Event counts= 350
+Processing file 616/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001646.i3.zst
+Len of pulse frames 616
+Length of meta frames 616
+Event counts= 330
+Processing file 617/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001647.i3.zst
+Len of pulse frames 617
+Length of meta frames 617
+Event counts= 380
+Processing file 618/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001648.i3.zst
+Len of pulse frames 618
+Length of meta frames 618
+Event counts= 352
+Processing file 619/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001649.i3.zst
+Len of pulse frames 619
+Length of meta frames 619
+Event counts= 393
+Processing file 620/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001650.i3.zst
+Len of pulse frames 620
+Length of meta frames 620
+Event counts= 381
+Processing file 621/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001651.i3.zst
+Len of pulse frames 621
+Length of meta frames 621
+Event counts= 368
+Processing file 622/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001652.i3.zst
+Len of pulse frames 622
+Length of meta frames 622
+Event counts= 383
+Processing file 623/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001653.i3.zst
+Len of pulse frames 623
+Length of meta frames 623
+Event counts= 344
+Processing file 624/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001654.i3.zst
+Len of pulse frames 624
+Length of meta frames 624
+Event counts= 352
+Processing file 625/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001655.i3.zst
+Len of pulse frames 625
+Length of meta frames 625
+Event counts= 334
+Processing file 626/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001656.i3.zst
+Len of pulse frames 626
+Length of meta frames 626
+Event counts= 364
+Processing file 627/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001657.i3.zst
+Len of pulse frames 627
+Length of meta frames 627
+Event counts= 375
+Processing file 628/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001658.i3.zst
+Len of pulse frames 628
+Length of meta frames 628
+Event counts= 382
+Processing file 629/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001659.i3.zst
+Len of pulse frames 629
+Length of meta frames 629
+Event counts= 370
+Processing file 630/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001660.i3.zst
+Len of pulse frames 630
+Length of meta frames 630
+Event counts= 345
+Processing file 631/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001662.i3.zst
+Len of pulse frames 631
+Length of meta frames 631
+Event counts= 371
+Processing file 632/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001663.i3.zst
+Len of pulse frames 632
+Length of meta frames 632
+Event counts= 383
+Processing file 633/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001664.i3.zst
+Len of pulse frames 633
+Length of meta frames 633
+Event counts= 381
+Processing file 634/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001665.i3.zst
+Len of pulse frames 634
+Length of meta frames 634
+Event counts= 378
+Processing file 635/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001666.i3.zst
+Len of pulse frames 635
+Length of meta frames 635
+Event counts= 391
+Processing file 636/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001667.i3.zst
+Len of pulse frames 636
+Length of meta frames 636
+Event counts= 368
+Processing file 637/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001668.i3.zst
+Len of pulse frames 637
+Length of meta frames 637
+Event counts= 346
+Processing file 638/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001669.i3.zst
+Len of pulse frames 638
+Length of meta frames 638
+Event counts= 351
+Processing file 639/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001670.i3.zst
+Len of pulse frames 639
+Length of meta frames 639
+Event counts= 372
+Processing file 640/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001671.i3.zst
+Len of pulse frames 640
+Length of meta frames 640
+Event counts= 362
+Processing file 641/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001672.i3.zst
+Len of pulse frames 641
+Length of meta frames 641
+Event counts= 365
+Processing file 642/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001673.i3.zst
+Len of pulse frames 642
+Length of meta frames 642
+Event counts= 355
+Processing file 643/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001674.i3.zst
+Len of pulse frames 643
+Length of meta frames 643
+Event counts= 330
+Processing file 644/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001675.i3.zst
+Len of pulse frames 644
+Length of meta frames 644
+Event counts= 369
+Processing file 645/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001676.i3.zst
+Len of pulse frames 645
+Length of meta frames 645
+Event counts= 359
+Processing file 646/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001677.i3.zst
+Len of pulse frames 646
+Length of meta frames 646
+Event counts= 371
+Processing file 647/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001678.i3.zst
+Len of pulse frames 647
+Length of meta frames 647
+Event counts= 383
+Processing file 648/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001679.i3.zst
+Len of pulse frames 648
+Length of meta frames 648
+Event counts= 365
+Processing file 649/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001680.i3.zst
+Len of pulse frames 649
+Length of meta frames 649
+Event counts= 371
+Processing file 650/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001681.i3.zst
+Len of pulse frames 650
+Length of meta frames 650
+Event counts= 375
+Processing file 651/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001682.i3.zst
+Len of pulse frames 651
+Length of meta frames 651
+Event counts= 355
+Processing file 652/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001683.i3.zst
+Len of pulse frames 652
+Length of meta frames 652
+Event counts= 399
+Processing file 653/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001684.i3.zst
+Len of pulse frames 653
+Length of meta frames 653
+Event counts= 376
+Processing file 654/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001685.i3.zst
+Len of pulse frames 654
+Length of meta frames 654
+Event counts= 411
+Processing file 655/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001686.i3.zst
+Len of pulse frames 655
+Length of meta frames 655
+Event counts= 386
+Processing file 656/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001687.i3.zst
+Len of pulse frames 656
+Length of meta frames 656
+Event counts= 424
+Processing file 657/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001688.i3.zst
+Len of pulse frames 657
+Length of meta frames 657
+Event counts= 367
+Processing file 658/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001689.i3.zst
+Len of pulse frames 658
+Length of meta frames 658
+Event counts= 382
+Processing file 659/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001690.i3.zst
+Len of pulse frames 659
+Length of meta frames 659
+Event counts= 341
+Processing file 660/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001691.i3.zst
+Len of pulse frames 660
+Length of meta frames 660
+Event counts= 366
+Processing file 661/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001692.i3.zst
+Len of pulse frames 661
+Length of meta frames 661
+Event counts= 356
+Processing file 662/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001693.i3.zst
+Len of pulse frames 662
+Length of meta frames 662
+Event counts= 334
+Processing file 663/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001694.i3.zst
+Len of pulse frames 663
+Length of meta frames 663
+Event counts= 384
+Processing file 664/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001695.i3.zst
+Len of pulse frames 664
+Length of meta frames 664
+Event counts= 362
+Processing file 665/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001696.i3.zst
+Len of pulse frames 665
+Length of meta frames 665
+Event counts= 374
+Processing file 666/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001697.i3.zst
+Len of pulse frames 666
+Length of meta frames 666
+Event counts= 390
+Processing file 667/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001698.i3.zst
+Len of pulse frames 667
+Length of meta frames 667
+Event counts= 406
+Processing file 668/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001699.i3.zst
+Len of pulse frames 668
+Length of meta frames 668
+Event counts= 377
+Processing file 669/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001700.i3.zst
+Len of pulse frames 669
+Length of meta frames 669
+Event counts= 353
+Processing file 670/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001701.i3.zst
+Len of pulse frames 670
+Length of meta frames 670
+Event counts= 372
+Processing file 671/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001702.i3.zst
+Len of pulse frames 671
+Length of meta frames 671
+Event counts= 366
+Processing file 672/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001703.i3.zst
+Len of pulse frames 672
+Length of meta frames 672
+Event counts= 342
+Processing file 673/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001704.i3.zst
+Len of pulse frames 673
+Length of meta frames 673
+Event counts= 354
+Processing file 674/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001705.i3.zst
+Len of pulse frames 674
+Length of meta frames 674
+Event counts= 389
+Processing file 675/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001706.i3.zst
+Len of pulse frames 675
+Length of meta frames 675
+Event counts= 356
+Processing file 676/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001707.i3.zst
+Len of pulse frames 676
+Length of meta frames 676
+Event counts= 370
+Processing file 677/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001708.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 677
+Length of meta frames 677
+Event counts= 348
+Processing file 678/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001709.i3.zst
+Len of pulse frames 678
+Length of meta frames 678
+Event counts= 345
+Processing file 679/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001710.i3.zst
+Len of pulse frames 679
+Length of meta frames 679
+Event counts= 393
+Processing file 680/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001711.i3.zst
+Len of pulse frames 680
+Length of meta frames 680
+Event counts= 356
+Processing file 681/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001712.i3.zst
+Len of pulse frames 681
+Length of meta frames 681
+Event counts= 371
+Processing file 682/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001713.i3.zst
+Len of pulse frames 682
+Length of meta frames 682
+Event counts= 347
+Processing file 683/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001714.i3.zst
+Len of pulse frames 683
+Length of meta frames 683
+Event counts= 413
+Processing file 684/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001715.i3.zst
+Len of pulse frames 684
+Length of meta frames 684
+Event counts= 410
+Processing file 685/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001716.i3.zst
+Len of pulse frames 685
+Length of meta frames 685
+Event counts= 383
+Processing file 686/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001717.i3.zst
+Len of pulse frames 686
+Length of meta frames 686
+Event counts= 378
+Processing file 687/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001718.i3.zst
+Len of pulse frames 687
+Length of meta frames 687
+Event counts= 376
+Processing file 688/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001719.i3.zst
+Len of pulse frames 688
+Length of meta frames 688
+Event counts= 365
+Processing file 689/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001720.i3.zst
+Len of pulse frames 689
+Length of meta frames 689
+Event counts= 344
+Processing file 690/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001721.i3.zst
+Len of pulse frames 690
+Length of meta frames 690
+Event counts= 354
+Processing file 691/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001722.i3.zst
+Len of pulse frames 691
+Length of meta frames 691
+Event counts= 374
+Processing file 692/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001723.i3.zst
+Len of pulse frames 692
+Length of meta frames 692
+Event counts= 348
+Processing file 693/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001724.i3.zst
+Len of pulse frames 693
+Length of meta frames 693
+Event counts= 368
+Processing file 694/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001726.i3.zst
+Len of pulse frames 694
+Length of meta frames 694
+Event counts= 432
+Processing file 695/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001727.i3.zst
+Len of pulse frames 695
+Length of meta frames 695
+Event counts= 355
+Processing file 696/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001728.i3.zst
+Len of pulse frames 696
+Length of meta frames 696
+Event counts= 405
+Processing file 697/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001729.i3.zst
+Len of pulse frames 697
+Length of meta frames 697
+Event counts= 363
+Processing file 698/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001730.i3.zst
+Len of pulse frames 698
+Length of meta frames 698
+Event counts= 344
+Processing file 699/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001731.i3.zst
+Len of pulse frames 699
+Length of meta frames 699
+Event counts= 319
+Processing file 700/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001732.i3.zst
+Len of pulse frames 700
+Length of meta frames 700
+Event counts= 351
+Processing file 701/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001733.i3.zst
+Len of pulse frames 701
+Length of meta frames 701
+Event counts= 395
+Processing file 702/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001734.i3.zst
+Len of pulse frames 702
+Length of meta frames 702
+Event counts= 352
+Processing file 703/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001735.i3.zst
+Len of pulse frames 703
+Length of meta frames 703
+Event counts= 372
+Processing file 704/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001736.i3.zst
+Len of pulse frames 704
+Length of meta frames 704
+Event counts= 378
+Processing file 705/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001737.i3.zst
+Len of pulse frames 705
+Length of meta frames 705
+Event counts= 368
+Processing file 706/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001738.i3.zst
+Len of pulse frames 706
+Length of meta frames 706
+Event counts= 364
+Processing file 707/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001739.i3.zst
+Len of pulse frames 707
+Length of meta frames 707
+Event counts= 378
+Processing file 708/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001740.i3.zst
+Len of pulse frames 708
+Length of meta frames 708
+Event counts= 360
+Processing file 709/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001741.i3.zst
+Len of pulse frames 709
+Length of meta frames 709
+Event counts= 327
+Processing file 710/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001742.i3.zst
+Len of pulse frames 710
+Length of meta frames 710
+Event counts= 386
+Processing file 711/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001743.i3.zst
+Len of pulse frames 711
+Length of meta frames 711
+Event counts= 398
+Processing file 712/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001744.i3.zst
+Len of pulse frames 712
+Length of meta frames 712
+Event counts= 371
+Processing file 713/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001745.i3.zst
+Len of pulse frames 713
+Length of meta frames 713
+Event counts= 367
+Processing file 714/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001746.i3.zst
+Len of pulse frames 714
+Length of meta frames 714
+Event counts= 364
+Processing file 715/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001747.i3.zst
+Len of pulse frames 715
+Length of meta frames 715
+Event counts= 368
+Processing file 716/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001748.i3.zst
+Len of pulse frames 716
+Length of meta frames 716
+Event counts= 396
+Processing file 717/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001749.i3.zst
+Len of pulse frames 717
+Length of meta frames 717
+Event counts= 374
+Processing file 718/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001750.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 718
+Length of meta frames 718
+Event counts= 365
+Processing file 719/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001751.i3.zst
+Len of pulse frames 719
+Length of meta frames 719
+Event counts= 338
+Processing file 720/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001753.i3.zst
+Len of pulse frames 720
+Length of meta frames 720
+Event counts= 356
+Processing file 721/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001754.i3.zst
+Len of pulse frames 721
+Length of meta frames 721
+Event counts= 378
+Processing file 722/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001755.i3.zst
+Len of pulse frames 722
+Length of meta frames 722
+Event counts= 374
+Processing file 723/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001757.i3.zst
+Len of pulse frames 723
+Length of meta frames 723
+Event counts= 332
+Processing file 724/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001758.i3.zst
+Len of pulse frames 724
+Length of meta frames 724
+Event counts= 337
+Processing file 725/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001759.i3.zst
+Len of pulse frames 725
+Length of meta frames 725
+Event counts= 362
+Processing file 726/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001760.i3.zst
+Len of pulse frames 726
+Length of meta frames 726
+Event counts= 353
+Processing file 727/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001761.i3.zst
+Len of pulse frames 727
+Length of meta frames 727
+Event counts= 398
+Processing file 728/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001762.i3.zst
+Len of pulse frames 728
+Length of meta frames 728
+Event counts= 376
+Processing file 729/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001763.i3.zst
+Len of pulse frames 729
+Length of meta frames 729
+Event counts= 397
+Processing file 730/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001764.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 730
+Length of meta frames 730
+Event counts= 364
+Processing file 731/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001765.i3.zst
+Len of pulse frames 731
+Length of meta frames 731
+Event counts= 384
+Processing file 732/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001766.i3.zst
+Len of pulse frames 732
+Length of meta frames 732
+Event counts= 376
+Processing file 733/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001767.i3.zst
+Len of pulse frames 733
+Length of meta frames 733
+Event counts= 335
+Processing file 734/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001768.i3.zst
+Len of pulse frames 734
+Length of meta frames 734
+Event counts= 396
+Processing file 735/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001770.i3.zst
+Len of pulse frames 735
+Length of meta frames 735
+Event counts= 384
+Processing file 736/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001771.i3.zst
+Len of pulse frames 736
+Length of meta frames 736
+Event counts= 369
+Processing file 737/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001772.i3.zst
+Len of pulse frames 737
+Length of meta frames 737
+Event counts= 364
+Processing file 738/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001773.i3.zst
+Len of pulse frames 738
+Length of meta frames 738
+Event counts= 381
+Processing file 739/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001775.i3.zst
+Len of pulse frames 739
+Length of meta frames 739
+Event counts= 384
+Processing file 740/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001776.i3.zst
+Len of pulse frames 740
+Length of meta frames 740
+Event counts= 360
+Processing file 741/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001777.i3.zst
+Len of pulse frames 741
+Length of meta frames 741
+Event counts= 362
+Processing file 742/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001778.i3.zst
+Len of pulse frames 742
+Length of meta frames 742
+Event counts= 365
+Processing file 743/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001779.i3.zst
+Len of pulse frames 743
+Length of meta frames 743
+Event counts= 337
+Processing file 744/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001780.i3.zst
+Len of pulse frames 744
+Length of meta frames 744
+Event counts= 388
+Processing file 745/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001781.i3.zst
+Len of pulse frames 745
+Length of meta frames 745
+Event counts= 367
+Processing file 746/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001782.i3.zst
+Len of pulse frames 746
+Length of meta frames 746
+Event counts= 392
+Processing file 747/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001783.i3.zst
+Len of pulse frames 747
+Length of meta frames 747
+Event counts= 351
+Processing file 748/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001784.i3.zst
+Len of pulse frames 748
+Length of meta frames 748
+Event counts= 336
+Processing file 749/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001785.i3.zst
+Len of pulse frames 749
+Length of meta frames 749
+Event counts= 370
+Processing file 750/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001786.i3.zst
+Len of pulse frames 750
+Length of meta frames 750
+Event counts= 380
+Processing file 751/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001787.i3.zst
+Len of pulse frames 751
+Length of meta frames 751
+Event counts= 349
+Processing file 752/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001788.i3.zst
+Len of pulse frames 752
+Length of meta frames 752
+Event counts= 351
+Processing file 753/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001789.i3.zst
+Len of pulse frames 753
+Length of meta frames 753
+Event counts= 350
+Processing file 754/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001790.i3.zst
+Len of pulse frames 754
+Length of meta frames 754
+Event counts= 397
+Processing file 755/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001791.i3.zst
+Len of pulse frames 755
+Length of meta frames 755
+Event counts= 398
+Processing file 756/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001793.i3.zst
+Len of pulse frames 756
+Length of meta frames 756
+Event counts= 401
+Processing file 757/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001794.i3.zst
+Len of pulse frames 757
+Length of meta frames 757
+Event counts= 392
+Processing file 758/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001795.i3.zst
+Len of pulse frames 758
+Length of meta frames 758
+Event counts= 344
+Processing file 759/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001796.i3.zst
+Len of pulse frames 759
+Length of meta frames 759
+Event counts= 390
+Processing file 760/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001797.i3.zst
+Len of pulse frames 760
+Length of meta frames 760
+Event counts= 374
+Processing file 761/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001800.i3.zst
+Len of pulse frames 761
+Length of meta frames 761
+Event counts= 370
+Processing file 762/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001801.i3.zst
+Len of pulse frames 762
+Length of meta frames 762
+Event counts= 384
+Processing file 763/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001802.i3.zst
+Len of pulse frames 763
+Length of meta frames 763
+Event counts= 383
+Processing file 764/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001803.i3.zst
+Len of pulse frames 764
+Length of meta frames 764
+Event counts= 364
+Processing file 765/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001804.i3.zst
+Len of pulse frames 765
+Length of meta frames 765
+Event counts= 381
+Processing file 766/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001805.i3.zst
+Len of pulse frames 766
+Length of meta frames 766
+Event counts= 363
+Processing file 767/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001806.i3.zst
+Len of pulse frames 767
+Length of meta frames 767
+Event counts= 362
+Processing file 768/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001807.i3.zst
+Len of pulse frames 768
+Length of meta frames 768
+Event counts= 396
+Processing file 769/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001808.i3.zst
+Len of pulse frames 769
+Length of meta frames 769
+Event counts= 384
+Processing file 770/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001809.i3.zst
+Len of pulse frames 770
+Length of meta frames 770
+Event counts= 378
+Processing file 771/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001810.i3.zst
+Len of pulse frames 771
+Length of meta frames 771
+Event counts= 382
+Processing file 772/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001811.i3.zst
+Len of pulse frames 772
+Length of meta frames 772
+Event counts= 345
+Processing file 773/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001812.i3.zst
+Len of pulse frames 773
+Length of meta frames 773
+Event counts= 377
+Processing file 774/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001813.i3.zst
+Len of pulse frames 774
+Length of meta frames 774
+Event counts= 366
+Processing file 775/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001814.i3.zst
+Len of pulse frames 775
+Length of meta frames 775
+Event counts= 362
+Processing file 776/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001816.i3.zst
+Len of pulse frames 776
+Length of meta frames 776
+Event counts= 368
+Processing file 777/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001817.i3.zst
+Len of pulse frames 777
+Length of meta frames 777
+Event counts= 377
+Processing file 778/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001818.i3.zst
+Len of pulse frames 778
+Length of meta frames 778
+Event counts= 379
+Processing file 779/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001819.i3.zst
+Len of pulse frames 779
+Length of meta frames 779
+Event counts= 214
+Processing file 780/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001820.i3.zst
+Len of pulse frames 780
+Length of meta frames 780
+Event counts= 361
+Processing file 781/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001821.i3.zst
+Len of pulse frames 781
+Length of meta frames 781
+Event counts= 396
+Processing file 782/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001822.i3.zst
+Len of pulse frames 782
+Length of meta frames 782
+Event counts= 372
+Processing file 783/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001823.i3.zst
+Len of pulse frames 783
+Length of meta frames 783
+Event counts= 365
+Processing file 784/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001824.i3.zst
+Len of pulse frames 784
+Length of meta frames 784
+Event counts= 386
+Processing file 785/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001825.i3.zst
+Len of pulse frames 785
+Length of meta frames 785
+Event counts= 364
+Processing file 786/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001826.i3.zst
+Len of pulse frames 786
+Length of meta frames 786
+Event counts= 375
+Processing file 787/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001827.i3.zst
+Len of pulse frames 787
+Length of meta frames 787
+Event counts= 368
+Processing file 788/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001828.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 788
+Length of meta frames 788
+Event counts= 385
+Processing file 789/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001829.i3.zst
+Len of pulse frames 789
+Length of meta frames 789
+Event counts= 365
+Processing file 790/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001830.i3.zst
+Len of pulse frames 790
+Length of meta frames 790
+Event counts= 406
+Processing file 791/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001831.i3.zst
+Len of pulse frames 791
+Length of meta frames 791
+Event counts= 353
+Processing file 792/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001832.i3.zst
+Len of pulse frames 792
+Length of meta frames 792
+Event counts= 378
+Processing file 793/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001833.i3.zst
+Len of pulse frames 793
+Length of meta frames 793
+Event counts= 378
+Processing file 794/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001834.i3.zst
+Len of pulse frames 794
+Length of meta frames 794
+Event counts= 389
+Processing file 795/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001835.i3.zst
+Len of pulse frames 795
+Length of meta frames 795
+Event counts= 375
+Processing file 796/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001836.i3.zst
+Len of pulse frames 796
+Length of meta frames 796
+Event counts= 340
+Processing file 797/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001837.i3.zst
+Len of pulse frames 797
+Length of meta frames 797
+Event counts= 343
+Processing file 798/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001838.i3.zst
+Len of pulse frames 798
+Length of meta frames 798
+Event counts= 359
+Processing file 799/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001839.i3.zst
+Len of pulse frames 799
+Length of meta frames 799
+Event counts= 348
+Processing file 800/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001840.i3.zst
+Len of pulse frames 800
+Length of meta frames 800
+Event counts= 375
+Processing file 801/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001841.i3.zst
+Len of pulse frames 801
+Length of meta frames 801
+Event counts= 396
+Processing file 802/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001842.i3.zst
+Len of pulse frames 802
+Length of meta frames 802
+Event counts= 372
+Processing file 803/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001843.i3.zst
+Len of pulse frames 803
+Length of meta frames 803
+Event counts= 381
+Processing file 804/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001844.i3.zst
+Len of pulse frames 804
+Length of meta frames 804
+Event counts= 367
+Processing file 805/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001845.i3.zst
+Len of pulse frames 805
+Length of meta frames 805
+Event counts= 376
+Processing file 806/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001846.i3.zst
+Len of pulse frames 806
+Length of meta frames 806
+Event counts= 406
+Processing file 807/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001847.i3.zst
+Len of pulse frames 807
+Length of meta frames 807
+Event counts= 363
+Processing file 808/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001848.i3.zst
+Len of pulse frames 808
+Length of meta frames 808
+Event counts= 368
+Processing file 809/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001849.i3.zst
+Len of pulse frames 809
+Length of meta frames 809
+Event counts= 395
+Processing file 810/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001850.i3.zst
+Len of pulse frames 810
+Length of meta frames 810
+Event counts= 375
+Processing file 811/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001851.i3.zst
+Len of pulse frames 811
+Length of meta frames 811
+Event counts= 365
+Processing file 812/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001852.i3.zst
+Len of pulse frames 812
+Length of meta frames 812
+Event counts= 349
+Processing file 813/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001853.i3.zst
+Len of pulse frames 813
+Length of meta frames 813
+Event counts= 376
+Processing file 814/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001854.i3.zst
+Len of pulse frames 814
+Length of meta frames 814
+Event counts= 357
+Processing file 815/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001855.i3.zst
+Len of pulse frames 815
+Length of meta frames 815
+Event counts= 375
+Processing file 816/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001856.i3.zst
+Len of pulse frames 816
+Length of meta frames 816
+Event counts= 391
+Processing file 817/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001857.i3.zst
+Len of pulse frames 817
+Length of meta frames 817
+Event counts= 383
+Processing file 818/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001858.i3.zst
+Len of pulse frames 818
+Length of meta frames 818
+Event counts= 383
+Processing file 819/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001859.i3.zst
+Len of pulse frames 819
+Length of meta frames 819
+Event counts= 342
+Processing file 820/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001860.i3.zst
+Len of pulse frames 820
+Length of meta frames 820
+Event counts= 356
+Processing file 821/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001861.i3.zst
+Len of pulse frames 821
+Length of meta frames 821
+Event counts= 403
+Processing file 822/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001862.i3.zst
+Len of pulse frames 822
+Length of meta frames 822
+Event counts= 385
+Processing file 823/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001864.i3.zst
+Len of pulse frames 823
+Length of meta frames 823
+Event counts= 396
+Processing file 824/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001865.i3.zst
+Len of pulse frames 824
+Length of meta frames 824
+Event counts= 370
+Processing file 825/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001866.i3.zst
+Len of pulse frames 825
+Length of meta frames 825
+Event counts= 382
+Processing file 826/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001867.i3.zst
+Len of pulse frames 826
+Length of meta frames 826
+Event counts= 374
+Processing file 827/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001868.i3.zst
+Len of pulse frames 827
+Length of meta frames 827
+Event counts= 344
+Processing file 828/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001869.i3.zst
+Len of pulse frames 828
+Length of meta frames 828
+Event counts= 354
+Processing file 829/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001870.i3.zst
+Len of pulse frames 829
+Length of meta frames 829
+Event counts= 375
+Processing file 830/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001871.i3.zst
+Len of pulse frames 830
+Length of meta frames 830
+Event counts= 344
+Processing file 831/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001872.i3.zst
+Len of pulse frames 831
+Length of meta frames 831
+Event counts= 355
+Processing file 832/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001873.i3.zst
+Len of pulse frames 832
+Length of meta frames 832
+Event counts= 385
+Processing file 833/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001874.i3.zst
+Len of pulse frames 833
+Length of meta frames 833
+Event counts= 392
+Processing file 834/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001875.i3.zst
+Len of pulse frames 834
+Length of meta frames 834
+Event counts= 364
+Processing file 835/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001876.i3.zst
+Len of pulse frames 835
+Length of meta frames 835
+Event counts= 368
+Processing file 836/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001877.i3.zst
+Len of pulse frames 836
+Length of meta frames 836
+Event counts= 356
+Processing file 837/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001879.i3.zst
+Len of pulse frames 837
+Length of meta frames 837
+Event counts= 347
+Processing file 838/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001880.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 838
+Length of meta frames 838
+Event counts= 332
+Processing file 839/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001881.i3.zst
+Len of pulse frames 839
+Length of meta frames 839
+Event counts= 357
+Processing file 840/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001882.i3.zst
+Len of pulse frames 840
+Length of meta frames 840
+Event counts= 350
+Processing file 841/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001883.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 841
+Length of meta frames 841
+Event counts= 330
+Processing file 842/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001884.i3.zst
+Len of pulse frames 842
+Length of meta frames 842
+Event counts= 350
+Processing file 843/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001885.i3.zst
+Len of pulse frames 843
+Length of meta frames 843
+Event counts= 375
+Processing file 844/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001886.i3.zst
+Len of pulse frames 844
+Length of meta frames 844
+Event counts= 376
+Processing file 845/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001887.i3.zst
+Len of pulse frames 845
+Length of meta frames 845
+Event counts= 330
+Processing file 846/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001888.i3.zst
+Len of pulse frames 846
+Length of meta frames 846
+Event counts= 384
+Processing file 847/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001890.i3.zst
+Len of pulse frames 847
+Length of meta frames 847
+Event counts= 332
+Processing file 848/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001891.i3.zst
+Len of pulse frames 848
+Length of meta frames 848
+Event counts= 362
+Processing file 849/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001892.i3.zst
+Len of pulse frames 849
+Length of meta frames 849
+Event counts= 360
+Processing file 850/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001893.i3.zst
+Len of pulse frames 850
+Length of meta frames 850
+Event counts= 392
+Processing file 851/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001894.i3.zst
+Len of pulse frames 851
+Length of meta frames 851
+Event counts= 344
+Processing file 852/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001895.i3.zst
+Len of pulse frames 852
+Length of meta frames 852
+Event counts= 359
+Processing file 853/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001897.i3.zst
+Len of pulse frames 853
+Length of meta frames 853
+Event counts= 372
+Processing file 854/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001898.i3.zst
+Len of pulse frames 854
+Length of meta frames 854
+Event counts= 379
+Processing file 855/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001899.i3.zst
+Len of pulse frames 855
+Length of meta frames 855
+Event counts= 386
+Processing file 856/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001900.i3.zst
+Len of pulse frames 856
+Length of meta frames 856
+Event counts= 364
+Processing file 857/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001901.i3.zst
+Len of pulse frames 857
+Length of meta frames 857
+Event counts= 385
+Processing file 858/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001902.i3.zst
+Len of pulse frames 858
+Length of meta frames 858
+Event counts= 347
+Processing file 859/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001903.i3.zst
+Len of pulse frames 859
+Length of meta frames 859
+Event counts= 368
+Processing file 860/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001904.i3.zst
+Len of pulse frames 860
+Length of meta frames 860
+Event counts= 376
+Processing file 861/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001905.i3.zst
+Len of pulse frames 861
+Length of meta frames 861
+Event counts= 363
+Processing file 862/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001906.i3.zst
+Len of pulse frames 862
+Length of meta frames 862
+Event counts= 93
+Processing file 863/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001907.i3.zst
+Len of pulse frames 863
+Length of meta frames 863
+Event counts= 355
+Processing file 864/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001909.i3.zst
+Len of pulse frames 864
+Length of meta frames 864
+Event counts= 370
+Processing file 865/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001910.i3.zst
+Len of pulse frames 865
+Length of meta frames 865
+Event counts= 381
+Processing file 866/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001911.i3.zst
+Len of pulse frames 866
+Length of meta frames 866
+Event counts= 358
+Processing file 867/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001912.i3.zst
+Len of pulse frames 867
+Length of meta frames 867
+Event counts= 378
+Processing file 868/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001913.i3.zst
+Len of pulse frames 868
+Length of meta frames 868
+Event counts= 371
+Processing file 869/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001914.i3.zst
+Len of pulse frames 869
+Length of meta frames 869
+Event counts= 407
+Processing file 870/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001915.i3.zst
+Len of pulse frames 870
+Length of meta frames 870
+Event counts= 370
+Processing file 871/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001916.i3.zst
+Len of pulse frames 871
+Length of meta frames 871
+Event counts= 362
+Processing file 872/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001917.i3.zst
+Len of pulse frames 872
+Length of meta frames 872
+Event counts= 355
+Processing file 873/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001918.i3.zst
+Len of pulse frames 873
+Length of meta frames 873
+Event counts= 369
+Processing file 874/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001919.i3.zst
+Len of pulse frames 874
+Length of meta frames 874
+Event counts= 394
+Processing file 875/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001920.i3.zst
+Len of pulse frames 875
+Length of meta frames 875
+Event counts= 375
+Processing file 876/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001921.i3.zst
+Len of pulse frames 876
+Length of meta frames 876
+Event counts= 372
+Processing file 877/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001922.i3.zst
+Len of pulse frames 877
+Length of meta frames 877
+Event counts= 350
+Processing file 878/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001923.i3.zst
+Len of pulse frames 878
+Length of meta frames 878
+Event counts= 364
+Processing file 879/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001924.i3.zst
+Len of pulse frames 879
+Length of meta frames 879
+Event counts= 394
+Processing file 880/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001925.i3.zst
+Len of pulse frames 880
+Length of meta frames 880
+Event counts= 350
+Processing file 881/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001926.i3.zst
+Len of pulse frames 881
+Length of meta frames 881
+Event counts= 360
+Processing file 882/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001927.i3.zst
+Len of pulse frames 882
+Length of meta frames 882
+Event counts= 402
+Processing file 883/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001928.i3.zst
+Len of pulse frames 883
+Length of meta frames 883
+Event counts= 384
+Processing file 884/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001929.i3.zst
+Len of pulse frames 884
+Length of meta frames 884
+Event counts= 348
+Processing file 885/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001930.i3.zst
+Len of pulse frames 885
+Length of meta frames 885
+Event counts= 362
+Processing file 886/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001931.i3.zst
+Len of pulse frames 886
+Length of meta frames 886
+Event counts= 395
+Processing file 887/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001932.i3.zst
+Len of pulse frames 887
+Length of meta frames 887
+Event counts= 359
+Processing file 888/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001933.i3.zst
+Len of pulse frames 888
+Length of meta frames 888
+Event counts= 374
+Processing file 889/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001934.i3.zst
+Len of pulse frames 889
+Length of meta frames 889
+Event counts= 417
+Processing file 890/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001935.i3.zst
+Len of pulse frames 890
+Length of meta frames 890
+Event counts= 367
+Processing file 891/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001936.i3.zst
+Len of pulse frames 891
+Length of meta frames 891
+Event counts= 344
+Processing file 892/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001937.i3.zst
+Len of pulse frames 892
+Length of meta frames 892
+Event counts= 348
+Processing file 893/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001938.i3.zst
+Len of pulse frames 893
+Length of meta frames 893
+Event counts= 368
+Processing file 894/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001939.i3.zst
+Len of pulse frames 894
+Length of meta frames 894
+Event counts= 339
+Processing file 895/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001940.i3.zst
+Len of pulse frames 895
+Length of meta frames 895
+Event counts= 373
+Processing file 896/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001941.i3.zst
+Not a CC interaction. Skip!
+Len of pulse frames 896
+Length of meta frames 896
+Event counts= 392
+Processing file 897/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001943.i3.zst
+Len of pulse frames 897
+Length of meta frames 897
+Event counts= 341
+Processing file 898/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001944.i3.zst
+Len of pulse frames 898
+Length of meta frames 898
+Event counts= 360
+Processing file 899/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001945.i3.zst
+Len of pulse frames 899
+Length of meta frames 899
+Event counts= 368
+Processing file 900/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001946.i3.zst
+Len of pulse frames 900
+Length of meta frames 900
+Event counts= 369
+Processing file 901/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001947.i3.zst
+Len of pulse frames 901
+Length of meta frames 901
+Event counts= 343
+Processing file 902/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001948.i3.zst
+Len of pulse frames 902
+Length of meta frames 902
+Event counts= 394
+Processing file 903/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001949.i3.zst
+Len of pulse frames 903
+Length of meta frames 903
+Event counts= 377
+Processing file 904/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001950.i3.zst
+Len of pulse frames 904
+Length of meta frames 904
+Event counts= 366
+Processing file 905/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001951.i3.zst
+Len of pulse frames 905
+Length of meta frames 905
+Event counts= 386
+Processing file 906/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001952.i3.zst
+Len of pulse frames 906
+Length of meta frames 906
+Event counts= 363
+Processing file 907/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001953.i3.zst
+Len of pulse frames 907
+Length of meta frames 907
+Event counts= 370
+Processing file 908/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001954.i3.zst
+Len of pulse frames 908
+Length of meta frames 908
+Event counts= 384
+Processing file 909/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001955.i3.zst
+Len of pulse frames 909
+Length of meta frames 909
+Event counts= 358
+Processing file 910/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001957.i3.zst
+Len of pulse frames 910
+Length of meta frames 910
+Event counts= 357
+Processing file 911/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001958.i3.zst
+Len of pulse frames 911
+Length of meta frames 911
+Event counts= 370
+Processing file 912/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001959.i3.zst
+Len of pulse frames 912
+Length of meta frames 912
+Event counts= 375
+Processing file 913/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001960.i3.zst
+Len of pulse frames 913
+Length of meta frames 913
+Event counts= 371
+Processing file 914/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001961.i3.zst
+Len of pulse frames 914
+Length of meta frames 914
+Event counts= 352
+Processing file 915/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001962.i3.zst
+Len of pulse frames 915
+Length of meta frames 915
+Event counts= 338
+Processing file 916/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001965.i3.zst
+Len of pulse frames 916
+Length of meta frames 916
+Event counts= 361
+Processing file 917/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001966.i3.zst
+Len of pulse frames 917
+Length of meta frames 917
+Event counts= 333
+Processing file 918/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001967.i3.zst
+Len of pulse frames 918
+Length of meta frames 918
+Event counts= 373
+Processing file 919/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001968.i3.zst
+Len of pulse frames 919
+Length of meta frames 919
+Event counts= 382
+Processing file 920/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001969.i3.zst
+Len of pulse frames 920
+Length of meta frames 920
+Event counts= 386
+Processing file 921/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001970.i3.zst
+Len of pulse frames 921
+Length of meta frames 921
+Event counts= 366
+Processing file 922/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001971.i3.zst
+Len of pulse frames 922
+Length of meta frames 922
+Event counts= 346
+Processing file 923/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001972.i3.zst
+Len of pulse frames 923
+Length of meta frames 923
+Event counts= 378
+Processing file 924/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001973.i3.zst
+Len of pulse frames 924
+Length of meta frames 924
+Event counts= 362
+Processing file 925/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001975.i3.zst
+Len of pulse frames 925
+Length of meta frames 925
+Event counts= 355
+Processing file 926/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001976.i3.zst
+Len of pulse frames 926
+Length of meta frames 926
+Event counts= 378
+Processing file 927/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001977.i3.zst
+Len of pulse frames 927
+Length of meta frames 927
+Event counts= 373
+Processing file 928/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001978.i3.zst
+Len of pulse frames 928
+Length of meta frames 928
+Event counts= 333
+Processing file 929/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001979.i3.zst
+Len of pulse frames 929
+Length of meta frames 929
+Event counts= 336
+Processing file 930/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001980.i3.zst
+Len of pulse frames 930
+Length of meta frames 930
+Event counts= 373
+Processing file 931/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001981.i3.zst
+Len of pulse frames 931
+Length of meta frames 931
+Event counts= 349
+Processing file 932/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001982.i3.zst
+Len of pulse frames 932
+Length of meta frames 932
+Event counts= 363
+Processing file 933/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001983.i3.zst
+Len of pulse frames 933
+Length of meta frames 933
+Event counts= 363
+Processing file 934/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001984.i3.zst
+Len of pulse frames 934
+Length of meta frames 934
+Event counts= 345
+Processing file 935/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001985.i3.zst
+Len of pulse frames 935
+Length of meta frames 935
+Event counts= 384
+Processing file 936/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001986.i3.zst
+Len of pulse frames 936
+Length of meta frames 936
+Event counts= 368
+Processing file 937/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001987.i3.zst
+Len of pulse frames 937
+Length of meta frames 937
+Event counts= 357
+Processing file 938/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001988.i3.zst
+Len of pulse frames 938
+Length of meta frames 938
+Event counts= 385
+Processing file 939/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001989.i3.zst
+Len of pulse frames 939
+Length of meta frames 939
+Event counts= 368
+Processing file 940/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001990.i3.zst
+Len of pulse frames 940
+Length of meta frames 940
+Event counts= 359
+Processing file 941/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001991.i3.zst
+Len of pulse frames 941
+Length of meta frames 941
+Event counts= 376
+Processing file 942/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001992.i3.zst
+Len of pulse frames 942
+Length of meta frames 942
+Event counts= 340
+Processing file 943/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001993.i3.zst
+Len of pulse frames 943
+Length of meta frames 943
+Event counts= 390
+Processing file 944/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001994.i3.zst
+Len of pulse frames 944
+Length of meta frames 944
+Event counts= 370
+Processing file 945/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001995.i3.zst
+Len of pulse frames 945
+Length of meta frames 945
+Event counts= 361
+Processing file 946/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001996.i3.zst
+Len of pulse frames 946
+Length of meta frames 946
+Event counts= 369
+Processing file 947/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001997.i3.zst
+Len of pulse frames 947
+Length of meta frames 947
+Event counts= 364
+Processing file 948/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001998.i3.zst
+Len of pulse frames 948
+Length of meta frames 948
+Event counts= 366
+Processing file 949/949: /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999/FinalLevel_NuMu_NuGenCCNC.022646.001999.i3.zst
+Len of pulse frames 949
+Length of meta frames 949
+Event counts= 380
+Total events processed: 348107
+Stored 348107 events in outfiles:
+  /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999-tfrecords/pulses_ds_22646_from_1000_to_2000_10_to_100TeV.ftr
+  /mnt/research/IceCube/Gupta-Reco/22646/0001000-0001999-tfrecords/meta_ds_22646_from_1000_to_2000_10_to_100TeV.ftr

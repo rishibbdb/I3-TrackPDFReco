@@ -28,7 +28,7 @@ from lib.experimental_methods import get_vertex_seeds
 from lib.linefit import linefit_3d_time_np, linefit_3d_time_jnp
 from fitting.llh_scanner import get_scanner
 from fitting.llh_fitter import get_fitter
-from dom_track_eval import get_eval_network_doms_and_track
+from lib.dom_track_eval import get_eval_network_doms_and_track
 from lib.likelihood_conv_mpe_logsumexp_gupta import get_neg_c_triple_gamma_llh, get_neg_c_triple_gamma_llh_optimized
 from lib.likelihood_conv_mpe_w_noise_logsumexp_gupta import get_neg_c_triple_gamma_llh_SRT_noise
 from pulse_extraction_from_i3 import get_pulse_info
@@ -46,9 +46,9 @@ from helpers import *
 
 import glob
 
-PATH_TO_INPUT = '/mnt/research/IceCube/Gupta-Reco/22644/tfrecords/ftr/'
-META_FILE_NAME = 'meta_ds_22644_from_1000_to_2000_10_to_100TeV.ftr'
-PULSES_FILE_NAME = 'pulses_ds_22644_from_1000_to_2000_10_to_100TeV.ftr'
+PATH_TO_INPUT = '/mnt/research/IceCube/Gupta-Reco/22646/tfrecords'
+META_FILE_NAME = 'meta_ds_22646_from_0_to_1000_10_to_100TeV.ftr'
+PULSES_FILE_NAME = 'pulses_ds_22646_from_0_to_1000_10_to_100TeV.ftr'
 
 events_meta_file = os.path.join(PATH_TO_INPUT, META_FILE_NAME)
 events_pulses_file = os.path.join(PATH_TO_INPUT, PULSES_FILE_NAME)
@@ -59,53 +59,53 @@ events_data = pd.read_feather(events_pulses_file)
 
 geo = pd.read_csv(geo_file)
 
-for i in range(len(events_meta)):
-    int_cols_meta = ["event_id", "idx_start", "idx_end", "n_channel_HLC", "n_channel"]
-    events_meta[int_cols_meta] = events_meta[int_cols_meta].astype("Int64")
+# for i in range(len(events_meta)):
+#     int_cols_meta = ["event_id", "idx_start", "idx_end", "n_channel_HLC", "n_channel"]
+#     events_meta[int_cols_meta] = events_meta[int_cols_meta].astype("Int64")
 
-    int_cols_data = ["event_id", "sensor_id", "is_HLC"]
-    events_data[int_cols_data] = events_data[int_cols_data].astype("Int64")
+#     int_cols_data = ["event_id", "sensor_id", "is_HLC"]
+#     events_data[int_cols_data] = events_data[int_cols_data].astype("Int64")
 
-    meta, pulses = get_event_data(i, events_meta, events_data)
+#     meta, pulses = get_event_data(i, events_meta, events_data)
 
-    event_data = get_per_dom_summary_from_sim_data(meta, pulses, geo)
-    replace_early_pulse(event_data, pulses)
+#     event_data = get_per_dom_summary_from_sim_data(meta, pulses, geo)
+#     replace_early_pulse(event_data, pulses)
     # Get MCTruth.
-    true_pos = jnp.array([meta['muon_pos_x'], meta['muon_pos_y'], meta['muon_pos_z']])
-    true_time = meta['muon_time']
-    true_zenith = meta['muon_zenith']
-    true_azimuth = meta['muon_azimuth']
-    true_src = jnp.array([true_zenith, true_azimuth])
-    true_src_deg = np.rad2deg(true_src)
-    splinempe_zenith = meta['spline_mpe_zenith']
-    splinempe_azimuth = meta['spline_mpe_azimuth']
-    spline_src = jnp.array([splinempe_zenith, splinempe_azimuth])
+    # true_pos = jnp.array([meta['muon_pos_x'], meta['muon_pos_y'], meta['muon_pos_z']])
+    # true_time = meta['muon_time']
+    # true_zenith = meta['muon_zenith']
+    # true_azimuth = meta['muon_azimuth']
+    # true_src = jnp.array([true_zenith, true_azimuth])
+    # true_src_deg = np.rad2deg(true_src)
+    # splinempe_zenith = meta['spline_mpe_zenith']
+    # splinempe_azimuth = meta['spline_mpe_azimuth']
+    # spline_src = jnp.array([splinempe_zenith, splinempe_azimuth])
 
-    track_pos, track_time, _, track_src = linefit(event_data)
-    track_pos  = jnp.asarray(track_pos)      # (3,)
-    track_time = jnp.asarray(track_time)     # scalar ()
-    track_src  = jnp.asarray(track_src)      # (2,)
-    track_zenith = float(track_src[0])
-    track_azimuth = float(track_src[1])
-    track_zenith_deg = np.degrees(track_zenith)
-    track_azimuth_deg = np.degrees(track_azimuth)
-    seed_ang_err = angular_separation_deg(
-                true_src_deg[0], true_src_deg[1],
-                track_zenith_deg, track_azimuth_deg
-            )
-    print(f"  Seed vs True Angular Distance error from the ftr files: {seed_ang_err:.2f} deg")
-
-
+    # track_pos, track_time, _, track_src = linefit(event_data)
+    # track_pos  = jnp.asarray(track_pos)      # (3,)
+    # track_time = jnp.asarray(track_time)     # scalar ()
+    # track_src  = jnp.asarray(track_src)      # (2,)
+    # track_zenith = float(track_src[0])
+    # track_azimuth = float(track_src[1])
+    # track_zenith_deg = np.degrees(track_zenith)
+    # track_azimuth_deg = np.degrees(track_azimuth)
+    # seed_ang_err = angular_separation_deg(
+    #             true_src_deg[0], true_src_deg[1],
+    #             track_zenith_deg, track_azimuth_deg
+    #         )
+    # print(f"  Seed vs True Angular Distance error from the ftr files: {seed_ang_err:.2f} deg")
 
 
 
 
 
 
-outdir = "/mnt/research/IceCube/Gupta-Reco/22644/tfrecords/"
-dataset_id = 22644
-file_index_start = 1000
-file_index_end = 2000
+
+
+outdir = "/mnt/research/IceCube/Gupta-Reco/22646/tfrecords/"
+dataset_id = 22646
+file_index_start = 0
+file_index_end = 1000
 compression_type = ''
 options = tf.io.TFRecordOptions(compression_type=compression_type)
 
@@ -146,21 +146,21 @@ with tf.io.TFRecordWriter(write_path, options) as writer:
             linefit_zenith_deg = np.degrees(linefit_zenith)
             linefit_azimuth_deg = np.degrees(linefit_azimuth)
 
-            true_zenith = meta['muon_zenith']
-            true_azimuth = meta['muon_azimuth']
-            true_src = jnp.array([true_zenith, true_azimuth])
-            true_src_deg = np.rad2deg(true_src)
+            # true_zenith = meta['muon_zenith']
+            # true_azimuth = meta['muon_azimuth']
+            # true_src = jnp.array([true_zenith, true_azimuth])
+            # true_src_deg = np.rad2deg(true_src)
 
-            seed_ang_err = angular_separation_deg(
-                true_src_deg[0], true_src_deg[1],
-                linefit_zenith_deg, linefit_azimuth_deg
-            )
-            print(f"  Seed vs True Angular Distance error: {seed_ang_err:.2f} deg")
+            # seed_ang_err = angular_separation_deg(
+            #     true_src_deg[0], true_src_deg[1],
+            #     linefit_zenith_deg, linefit_azimuth_deg
+            # )
+            # print(f"  Seed vs True Angular Distance error: {seed_ang_err:.2f} deg")
             # Pulse data
             x = event_data[['x', 'y', 'z', 'time', 'charge']].to_numpy()
             
             # Original metadata (15 values)
-            y_meta = meta[['muon_energy_at_detector', 'q_tot', 'muon_zenith', 'muon_azimuth', 'muon_time',
+            y_meta = meta[['neutrino_energy', 'q_tot', 'muon_zenith', 'muon_azimuth', 'muon_time',
                           'muon_pos_x', 'muon_pos_y', 'muon_pos_z', 'spline_mpe_zenith',
                           'spline_mpe_azimuth', 'spline_mpe_time', 'spline_mpe_pos_x',
                           'spline_mpe_pos_y', 'spline_mpe_pos_z']].to_numpy()

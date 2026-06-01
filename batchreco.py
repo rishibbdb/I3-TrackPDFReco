@@ -1,6 +1,7 @@
 import glob
 import sys, os
 import argparse
+import psutil
 
 parser = argparse.ArgumentParser()
 
@@ -20,7 +21,7 @@ parser.add_argument("-g", "--gpu", type=int,
                   help="which GPU should run the code")
 
 parser.add_argument("-b", "--batch_size", type=float,
-                  default=0.5,
+                  default=1,
                   dest="BATCH_SIZE",
                   help="how many events should go into one batch")
 
@@ -90,7 +91,7 @@ from lib.experimental_methods import get_vertex_seeds
 from lib.linefit import linefit_3d_time_np, linefit_3d_time_jnp
 from fitting.llh_scanner import get_scanner
 from fitting.llh_fitter import get_fitter
-from dom_track_eval import get_eval_network_doms_and_track
+from lib.dom_track_eval import get_eval_network_doms_and_track
 from lib.likelihood_conv_mpe_logsumexp_gupta import get_neg_c_triple_gamma_llh, get_neg_c_triple_gamma_llh_optimized
 from lib.likelihood_conv_mpe_w_noise_logsumexp_gupta import get_neg_c_triple_gamma_llh_SRT_noise
 from astropy.coordinates import SkyCoord
@@ -100,6 +101,27 @@ cx = Cubehelix.make(start=0.3, rotation=-0.5, n=16, reverse=False, gamma=1.0,
      	max_light=1.0,max_sat=0.5, min_sat=1.4).get_mpl_colormap()
 import astropy.units as u
 from helpers import *
+
+def print_memory_usage(tag=""):
+    # System RAM for this process
+    rss_gb = psutil.Process(os.getpid()).memory_info().rss / 1e9
+    vm = psutil.virtual_memory()
+    label = f" {tag}" if tag else ""
+    print(f"[MEM{label}] Process RSS: {rss_gb:.2f} GB | "
+          f"System: {vm.used/1e9:.1f}/{vm.total/1e9:.1f} GB ({vm.percent:.0f}%)")
+
+    # GPU memory via JAX (None on some backends -> guarded)
+    try:
+        for dev in jax.devices():
+            stats = dev.memory_stats()
+            if stats:
+                print(f"         GPU {dev.id}: in_use "
+                      f"{stats.get('bytes_in_use', 0)/1e9:.2f} GB | "
+                      f"peak {stats.get('peak_bytes_in_use', 0)/1e9:.2f} GB | "
+                      f"limit {stats.get('bytes_limit', 0)/1e9:.2f} GB")
+    except Exception as e:
+        print(f"         (GPU memory stats unavailable: {e})")
+
 
 dzen = 0.05 # rad
 dazi = 0.05 # rad
@@ -114,17 +136,8 @@ n_comp = 4
 network_path = '/mnt/scratch/baburish/TPN-training/gupta_mixture_jax/new_weights/4comp_no_penalties_w4096batch_tree_start_epoch_255.eqx'
 eval_network_v = get_network_eval_v_fn_f32(bpath=network_path, dtype=dtype, n_hidden=n_hidden)
 eval_network_doms_and_track = get_eval_network_doms_and_track(eval_network_v, dtype=dtype, gupta=gupta, n_comp=n_comp)
+print_memory_usage("after network load")
 
-# Load event input data in tfrecords format for efficient
-# batched processing.
-# if '*' in args.TFRECORDS_FILE_NAME:
-#     print(f"Loading multiple tfrecords files with pattern {args.TFRECORDS_FILE_NAME}...")
-#     fs = glob.glob(os.path.join(args.PATH_TO_INPUT, args.TFRECORDS_FILE_NAME))
-#     batch_maker = I3SimBatchHandlerTFRecord(fs, batch_size=args.BATCH_SIZE)
-
-# else:
-#     batch_maker = I3SimBatchHandlerTFRecord([args.TFRECORDS_FILE_NAME], batch_size=args.BATCH_SIZE)
-# FIXED CODE:
 if '*' in args.TFRECORDS_FILE_NAME:
     fs = glob.glob(os.path.join(args.PATH_TO_INPUT, args.TFRECORDS_FILE_NAME))
 else:
@@ -147,58 +160,103 @@ print(f"{'='*60}\n")
 
 batch_iter = batch_maker.get_batch_iterator()
 # Multi-stage fitting function
-def fit_batch_with_sigma_stages(track_src, centered_track_pos, centered_track_time, pulse_data):
-    """
-    Perform iterative fitting across multiple Gaussian convolution widths.
-    Uses output from one stage as seed for the next.
-    
-    Returns: (logl, direction, vertex, time)
-    """
-    best_logl = None
-    best_direction = None
-    best_vertex = None
-    best_time = None
-    
-    for sigma in args.GAUSSIAN_CONV_WIDTHS:
-        print(f"  Fitting with Gaussian convolution width: {sigma} ns")
-        
-        # Setup likelihood with specified gaussian convolution width
-        neg_llh = get_neg_c_triple_gamma_llh(eval_network_doms_and_track, sigma=sigma)
-        
-        # Setup fitter with improved configuration
-        fit_llh = get_fitter(
-            neg_llh,
-            use_multiple_vertex_seeds=args.use_multiple_vertex_seeds,
-            prescan_time=args.prescan_time,
-            use_batches=True
-        )
-        
-        # JIT compile for this batch
-        fit_llh_jit = jax.jit(fit_llh)
-        
-        # Use previous stage's result as seed, or initial seed for first stage
-        if best_logl is not None:
-            seed_src = best_direction
-            seed_pos = best_vertex
-            seed_time = best_time
-        else:
-            seed_src = track_src
-            seed_pos = centered_track_pos
-            seed_time = centered_track_time
-        
-        # Run the fit
-        solution = fit_llh_jit(seed_src, seed_pos, seed_time, pulse_data)
-        current_logl, current_direction, current_vertex, current_time = solution
 
-        best_logl = current_logl
-        best_direction = current_direction
-        best_vertex = current_vertex
-        best_time = current_time
-    
+staged_fitters = []
+for sigma in args.GAUSSIAN_CONV_WIDTHS:
+    neg_llh = get_neg_c_triple_gamma_llh(eval_network_doms_and_track, sigma=sigma)
+    fit_llh = get_fitter(
+        neg_llh,
+        use_multiple_vertex_seeds=args.use_multiple_vertex_seeds,
+        prescan_time=args.prescan_time,
+        use_batches=True,
+    )
+    staged_fitters.append((sigma, jax.jit(fit_llh)))
+
+
+def fit_batch_with_sigma_stages(track_src, centered_track_pos, centered_track_time, pulse_data):
+    best_logl = best_direction = best_vertex = best_time = None
+    for sigma, fit_llh_jit in staged_fitters:
+        print(f"  Fitting with Gaussian convolution width: {sigma} ns")
+        if best_logl is not None:
+            seed_src, seed_pos, seed_time = best_direction, best_vertex, best_time
+        else:
+            seed_src, seed_pos, seed_time = track_src, centered_track_pos, centered_track_time
+        best_logl, best_direction, best_vertex, best_time = fit_llh_jit(
+            seed_src, seed_pos, seed_time, pulse_data
+        )
     return best_logl, best_direction, best_vertex, best_time
+# def fit_batch_with_sigma_stages(track_src, centered_track_pos, centered_track_time, pulse_data):
+#     """
+#     Perform iterative fitting across multiple Gaussian convolution widths.
+#     Uses output from one stage as seed for the next.
+    
+#     Returns: (logl, direction, vertex, time)
+#     """
+#     best_logl = None
+#     best_direction = None
+#     best_vertex = None
+#     best_time = None
+    
+#     for sigma in args.GAUSSIAN_CONV_WIDTHS:
+#         print(f"  Fitting with Gaussian convolution width: {sigma} ns")
+        
+#         # Setup likelihood with specified gaussian convolution width
+#         neg_llh = get_neg_c_triple_gamma_llh(eval_network_doms_and_track, sigma=sigma)
+        
+#         # Setup fitter with improved configuration
+#         fit_llh = get_fitter(
+#             neg_llh,
+#             use_multiple_vertex_seeds=args.use_multiple_vertex_seeds,
+#             prescan_time=args.prescan_time,
+#             use_batches=True
+#         )
+        
+#         # JIT compile for this batch
+#         fit_llh_jit = jax.jit(fit_llh)
+        
+#         # Use previous stage's result as seed, or initial seed for first stage
+#         if best_logl is not None:
+#             seed_src = best_direction
+#             seed_pos = best_vertex
+#             seed_time = best_time
+#         else:
+#             seed_src = track_src
+#             seed_pos = centered_track_pos
+#             seed_time = centered_track_time
+        
+#         # Run the fit
+#         solution = fit_llh_jit(seed_src, seed_pos, seed_time, pulse_data)
+#         current_logl, current_direction, current_vertex, current_time = solution
+
+#         best_logl = current_logl
+#         best_direction = current_direction
+#         best_vertex = current_vertex
+#         best_time = current_time
+    
+#     return best_logl, best_direction, best_vertex, best_time
 
 
 # Process batches
+
+column_names = [
+    'neutrino_energy', 'q_tot', 'muon_zenith', 'muon_azimuth', 'muon_time',
+    'muon_pos_x', 'muon_pos_y', 'muon_pos_z',
+    'spline_mpe_zenith', 'spline_mpe_azimuth', 'spline_mpe_time',
+    'spline_mpe_pos_x', 'spline_mpe_pos_y', 'spline_mpe_pos_z',
+    'linefit_zenith', 'linefit_azimuth', 'linefit_time',
+    'linefit_pos_x', 'linefit_pos_y', 'linefit_pos_z',
+    'reco_logl', 'reco_zenith', 'reco_azimuth',
+    'reco_pos_x', 'reco_pos_y', 'reco_pos_z', 'reco_time',
+]
+
+out_csv = f"{args.OUTFILE}.csv"
+# Fresh file each run; remove any stale output so we don't append to old data.
+if os.path.exists(out_csv):
+    os.remove(out_csv)
+
+header_written = False
+total_events_written = 0
+
 collect_results = []
 finished_batches = False
 batch_idx = 0
@@ -247,52 +305,6 @@ while not finished_batches:
         logl, direction, vertex, track_time = fit_batch_with_sigma_stages(
             track_src, centered_track_pos, centered_track_time, pulse_data
         )
-        # true_zenith = meta_data[:, 2]      # Column 2
-        # true_azimuth = meta_data[:, 3]     # Column 3
-        # spline_zenith = meta_data[:, 8]    # Column 8
-        # spline_azimuth = meta_data[:, 9]   # Column 9
-        # seed_zenith = meta_data[:, -6]        # Column 0 of seed_data
-        # seed_azimuth = meta_data[:, -5]       # Column 1 of seed_data
-        # print("Seed zenith and azimuth (degrees) of first event in batch:")
-        # print(f"  Zenith: {np.degrees(seed_zenith[0]):.2f}°")
-        # print(f"  Azimuth: {np.degrees(seed_azimuth[0]):.2f}°")
-
-        # Convert reconstructed directions to degrees
-        # direction_deg = jnp.degrees(direction)  # shape: (batch_size, 2)
-        # track_src_deg = jnp.degrees(track_src)  # shape: (batch_size, 2)
-
-        # # Convert true/spline to degrees
-        # true_src_deg = jnp.degrees(jnp.array([true_zenith, true_azimuth]).T)  # shape: (batch_size, 2)
-        # spline_src_deg = jnp.degrees(jnp.array([spline_zenith, spline_azimuth]).T)  # shape: (batch_size, 2)
-
-        # # print(f"\n{'='*60}")
-        # print("ANGULAR RESOLUTION FOR BATCH")
-        # print(f"{'='*60}")
-
-        # for event_idx in range(pulse_data.shape[0]):
-        #     linefit_ang_err = angular_separation_deg(
-        #         true_src_deg[event_idx, 0], true_src_deg[event_idx, 1],
-        #         direction_deg[event_idx, 0], direction_deg[event_idx, 1]
-        #     )
-        #     splinempe_ang_err = angular_separation_deg(
-        #         true_src_deg[event_idx, 0], true_src_deg[event_idx, 1],
-        #         spline_src_deg[event_idx, 0], spline_src_deg[event_idx, 1]
-        #     )
-        #     seed_ang_err = angular_separation_deg(
-        #         true_src_deg[event_idx, 0], true_src_deg[event_idx, 1],
-        #         seed_zenith[event_idx], seed_azimuth[event_idx]
-        #     )
-        #     print(f"Event {event_idx}:")
-        #     print(f"  Seed direction:  zen={np.rad2deg(seed_zenith[event_idx]):.2f}°, azi={np.rad2deg(seed_azimuth[event_idx]):.2f}° (angular error: {seed_ang_err:.2f} deg)")
-        #     print(f"  True direction: zen={np.rad2deg(true_zenith[event_idx]):.2f}°, azi={np.rad2deg(true_azimuth[event_idx]):.2f}°")
-        #     print(f"  Reconstructed:  zen={direction_deg[event_idx, 0]:.2f}°, azi={direction_deg[event_idx, 1]:.2f}°")
-        #     print(f"  SplineMPE:      zen={spline_src_deg[event_idx, 0]:.2f}°, azi={spline_src_deg[event_idx, 1]:.2f}°")
-        #     print(f"  Reconstructed vs True Angular Distance error: {linefit_ang_err:.2f} deg")
-        #     print(f"  SplineMPE vs True Angular Distance error: {splinempe_ang_err:.2f} deg")
-        #     print()
-            # exit()
-        # Collect results and auxiliary data to be serialized to disk
-        # todo: output a nicer pandas.DataFrame instead of raw numpy array.
         out_data = jnp.concatenate(
             [
                 meta_data,
@@ -304,10 +316,16 @@ while not finished_batches:
             axis=1
         )
 
-        collect_results.append(out_data)
+        # collect_results.append(out_data)
+        df_batch = pd.DataFrame(np.array(out_data), columns=column_names)
+        df_batch.to_csv(out_csv, mode='a', header=not header_written, index=False)
+        header_written = True
+        total_events_written += out_data.shape[0]
+        print(f"  Wrote {out_data.shape[0]} events (total so far: {total_events_written})")
         
         batch_time = time.time() - batch_start_time
         print(f"Batch {batch_idx} completed in {batch_time:.2f}s")
+        print_memory_usage("after network load")
         batch_idx += 1
 
     except StopIteration:
@@ -318,33 +336,34 @@ while not finished_batches:
 print(f"\n{'='*60}")
 print("Finalizing results...")
 print(f"{'='*60}")
+print(f"\nTotal events processed and written: {total_events_written}")
+print(f"✓ Saved: {out_csv}")
+# results = jnp.concatenate(collect_results, axis=0)
+# print_memory_usage("after network load")
 
-results = jnp.concatenate(collect_results, axis=0)
 
+# print(f"\nTotal events processed: {results.shape[0]}")
+# print(f"Result array shape: {results.shape}")
 
+# # Convert to pandas DataFrame
+# column_names = [
+#     'neutrino_energy', 'q_tot', 'muon_zenith', 'muon_azimuth', 'muon_time',
+#     'muon_pos_x', 'muon_pos_y', 'muon_pos_z',
+#     'spline_mpe_zenith', 'spline_mpe_azimuth', 'spline_mpe_time',
+#     'spline_mpe_pos_x', 'spline_mpe_pos_y', 'spline_mpe_pos_z',
+#     'linefit_zenith', 'linefit_azimuth', 'linefit_time',  # ← Add these (14-16)
+#     'linefit_pos_x', 'linefit_pos_y', 'linefit_pos_z',    # ← Add these (17-19)
+#     'reco_logl', 'reco_zenith', 'reco_azimuth',
+#     'reco_pos_x', 'reco_pos_y', 'reco_pos_z', 'reco_time',
+# ]
 
-print(f"\nTotal events processed: {results.shape[0]}")
-print(f"Result array shape: {results.shape}")
+# results_np = np.array(results)
+# df = pd.DataFrame(results_np, columns=column_names)
 
-# Convert to pandas DataFrame
-column_names = [
-    'muon_energy_at_detector', 'q_tot', 'muon_zenith', 'muon_azimuth', 'muon_time',
-    'muon_pos_x', 'muon_pos_y', 'muon_pos_z',
-    'spline_mpe_zenith', 'spline_mpe_azimuth', 'spline_mpe_time',
-    'spline_mpe_pos_x', 'spline_mpe_pos_y', 'spline_mpe_pos_z',
-    'linefit_zenith', 'linefit_azimuth', 'linefit_time',  # ← Add these (14-16)
-    'linefit_pos_x', 'linefit_pos_y', 'linefit_pos_z',    # ← Add these (17-19)
-    'reco_logl', 'reco_zenith', 'reco_azimuth',
-    'reco_pos_x', 'reco_pos_y', 'reco_pos_z', 'reco_time',
-]
+# print(f"\nSaving results to {args.OUTFILE}")
 
-results_np = np.array(results)
-df = pd.DataFrame(results_np, columns=column_names)
-
-print(f"\nSaving results to {args.OUTFILE}")
-
-# CSV (human-readable)
-df.to_csv(f"{args.OUTFILE}.csv", index=False)
+# # CSV (human-readable)
+# df.to_csv(f"{args.OUTFILE}.csv", index=False)
 print(f"✓ Saved: {args.OUTFILE}.csv")
 
 total_elapsed = time.time() - total_start_time

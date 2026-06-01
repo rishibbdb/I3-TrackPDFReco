@@ -1,24 +1,5 @@
 CUDA_VISIBLE_DEVICES = 0
-Thu May 21 01:47:34 2026       
-+-----------------------------------------------------------------------------------------+
-| NVIDIA-SMI 560.35.05              Driver Version: 560.35.05      CUDA Version: 12.6     |
-|-----------------------------------------+------------------------+----------------------+
-| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
-| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
-|                                         |                        |               MIG M. |
-|=========================================+========================+======================|
-|   0  NVIDIA A100-SXM4-80GB          Off |   00000000:01:00.0 Off |                    0 |
-| N/A   32C    P0             60W /  500W |       1MiB /  81920MiB |      0%      Default |
-|                                         |                        |             Disabled |
-+-----------------------------------------+------------------------+----------------------+
-                                                                                         
-+-----------------------------------------------------------------------------------------+
-| Processes:                                                                              |
-|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
-|        ID   ID                                                               Usage      |
-|=========================================================================================|
-|  No running processes found                                                             |
-+-----------------------------------------------------------------------------------------+
+/var/lib/slurmd/job8614927/slurm_script: line 21: nvidia-smi: command not found
 Traceback (most recent call last):
   File "<string>", line 1, in <module>
   File "/mnt/home/baburish/miniconda3/miniconda/envs/3pandelnet/lib/python3.10/site-packages/jax/__init__.py", line 25, in <module>
@@ -36,13 +17,13 @@ Traceback (most recent call last):
   File "/mnt/home/baburish/miniconda3/miniconda/envs/3pandelnet/lib/python3.10/site-packages/ml_dtypes/_finfo.py", line 19, in <module>
     from ml_dtypes._ml_dtypes_ext import bfloat16
 ModuleNotFoundError: No module named 'ml_dtypes._ml_dtypes_ext'
-2026-05-21 01:47:39.210664: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2026-05-21 01:47:44.190382: W external/xla/xla/service/gpu/nvptx_compiler.cc:836] The NVIDIA driver's CUDA version is 12.6 which is older than the PTX compiler version (12.9.86). Because the driver is older than the PTX compiler version, XLA is disabling parallel compilation, which may slow down compilation. You should update your NVIDIA driver or use the NVIDIA-provided CUDA forward compatibility packages.
-Traceback (most recent call last):
-  File "/mnt/scratch/baburish/TPN-training/final/TPN_God/reconstruct22644.py", line 62, in <module>
-    events_meta = pd.read_feather(events_meta_file)
-  File "/mnt/home/baburish/miniconda3/miniconda/envs/3pandelnet/lib/python3.10/site-packages/pandas/io/feather_format.py", line 120, in read_feather
-    with get_handle(
-  File "/mnt/home/baburish/miniconda3/miniconda/envs/3pandelnet/lib/python3.10/site-packages/pandas/io/common.py", line 882, in get_handle
-    handle = open(handle, ioargs.mode)
-FileNotFoundError: [Errno 2] No such file or directory: '/mnt/research/IceCube/Gupta-Reco/22644/tfrecords/ftr/meta_ds_22644_from_0_to_1000_10_to_100TeV.ftr'
+2026-05-29 02:41:31.909906: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2026-05-29 02:41:31.956271: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2026-05-29 02:41:31.956659: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-05-29 02:41:34.859520: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2026-05-29 02:41:46.147908: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_8' with dtype int64 and shape [22]
+	 [[{{node Placeholder/_8}}]]
+2026-05-29 02:41:46.149756: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_8' with dtype int64 and shape [22]
+	 [[{{node Placeholder/_8}}]]
+[2026-05-29T02:41:52.239] error: *** JOB 8614927 ON amr-061 CANCELLED AT 2026-05-29T02:41:52 DUE to SIGNAL Terminated ***

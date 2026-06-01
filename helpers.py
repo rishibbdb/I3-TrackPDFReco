@@ -25,7 +25,7 @@ from lib.experimental_methods import get_vertex_seeds
 from lib.linefit import linefit_3d_time_np, linefit_3d_time_jnp
 from fitting.llh_scanner import get_scanner
 from fitting.llh_fitter import get_fitter
-from dom_track_eval import get_eval_network_doms_and_track
+from lib.dom_track_eval import get_eval_network_doms_and_track
 from lib.likelihood_conv_mpe_logsumexp_gupta import get_neg_c_triple_gamma_llh, get_neg_c_triple_gamma_llh_optimized
 from lib.likelihood_conv_mpe_w_noise_logsumexp_gupta import get_neg_c_triple_gamma_llh_SRT_noise
 from astropy.coordinates import SkyCoord
@@ -489,7 +489,8 @@ def plot_event_new(
                 track_x,
                 track_y,
                 track_z,
-                'r-',
+                '-',
+                color='blue',
                 linewidth=3,
                 label='Seed Track',
                 zorder=500,
@@ -499,9 +500,9 @@ def plot_event_new(
             ax.scatter(
                 *seed_pos,
                 s=400,
-                c='red',
+                c='blue',
                 marker='*',
-                edgecolors='darkred',
+                # edgecolors='darkred',
                 linewidth=2,
                 zorder=1001,
                 label='Seed Vertex'
