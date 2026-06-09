@@ -1,0 +1,529 @@
+Namespace(PATH_TO_INPUT='/mnt/research/IceCube/Gupta-Reco/22646/tfrecords/', TFRECORDS_FILE_NAME='data_ds_22646_from_0_to_1000_1st_pulse.tfrecord', GPU_INDEX=0, BATCH_SIZE=2.0, SEED='linefit', STOP_AFTER_N_BATCHES=100000000000, OUTFILE='/mnt/scratch/baburish/TPN-training/final/TPN_God/results/result_22646_0_to_1000_terminalrun', center_track_seed=False, use_multiple_vertex_seeds=True, prescan_time=True, GAUSSIAN_CONV_WIDTHS=[100, 10, 3])
+
+[MEM after network load] Process RSS: 4.35 GB | System: 133.6/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 0.00 GB | limit 112.61 GB
+
+============================================================
+Checking total events in dataset...
+============================================================
+Total events available in dataset: 351312
+============================================================
+
+
+============================================================
+Reconstructing batch 0
+============================================================
+Seed vertex of first event in batch: [-418.23517091  -33.92149607 -153.02836874] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 78)
+Batch 0 completed in 27.06s
+[MEM after network load] Process RSS: 5.01 GB | System: 134.4/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 17.71 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 1
+============================================================
+Seed vertex of first event in batch: [ 195.03727052 -232.15239319 -432.39358875] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 180)
+Batch 1 completed in 24.46s
+[MEM after network load] Process RSS: 5.21 GB | System: 135.7/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 17.71 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 2
+============================================================
+Seed vertex of first event in batch: [-237.30249004  -31.57716348 -323.20482691] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 258)
+Batch 2 completed in 8.07s
+[MEM after network load] Process RSS: 5.21 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 17.71 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 3
+============================================================
+Seed vertex of first event in batch: [ 118.56082845  218.49674503 -309.21092117] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 318)
+Batch 3 completed in 24.38s
+[MEM after network load] Process RSS: 5.40 GB | System: 136.4/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 19.93 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 4
+============================================================
+Seed vertex of first event in batch: [ -57.17425081 -204.30013754  194.1381729 ] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 420)
+Batch 4 completed in 5.98s
+[MEM after network load] Process RSS: 5.41 GB | System: 136.3/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 19.93 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 5
+============================================================
+Seed vertex of first event in batch: [-257.64683322 -309.92348959   63.13684287] m
+Data shape: (133, 19, 5)
+Number of events in batch: 133
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 133 events (total so far: 553)
+Batch 5 completed in 24.40s
+[MEM after network load] Process RSS: 5.60 GB | System: 135.9/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 19.93 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 6
+============================================================
+Seed vertex of first event in batch: [-163.91589146  278.93183585 -280.61877312] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 631)
+Batch 6 completed in 8.08s
+[MEM after network load] Process RSS: 5.60 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 19.93 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 7
+============================================================
+Seed vertex of first event in batch: [ -27.76303634 -205.07204626 -361.34455599] m
+Data shape: (46, 87, 5)
+Number of events in batch: 46
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 46 events (total so far: 677)
+Batch 7 completed in 24.11s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.1/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 8
+============================================================
+Seed vertex of first event in batch: [422.81897388   1.47905215  63.40454988] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 737)
+Batch 8 completed in 7.40s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.1/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 9
+============================================================
+Seed vertex of first event in batch: [-393.16132603  299.11126193 -121.99357029] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 839)
+Batch 9 completed in 7.53s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.1/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 10
+============================================================
+Seed vertex of first event in batch: [ -52.21402127  169.59914995 -449.82190708] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 917)
+Batch 10 completed in 5.54s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.1/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 11
+============================================================
+Seed vertex of first event in batch: [-259.42978762  142.26646583 -250.53424203] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 1019)
+Batch 11 completed in 7.06s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.2/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 12
+============================================================
+Seed vertex of first event in batch: [ -69.69216726 -379.26503356  146.4666815 ] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 1079)
+Batch 12 completed in 8.68s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.3/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 13
+============================================================
+Seed vertex of first event in batch: [-153.04121484 -465.44293763   85.17013177] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 1157)
+Batch 13 completed in 6.69s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.4/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 14
+============================================================
+Seed vertex of first event in batch: [-456.83540297  -55.98520434    3.69821274] m
+Data shape: (133, 19, 5)
+Number of events in batch: 133
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 133 events (total so far: 1290)
+Batch 14 completed in 8.00s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.6/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 15
+============================================================
+Seed vertex of first event in batch: [  12.59716296  154.44508468 -361.96436269] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 1392)
+Batch 15 completed in 8.64s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.7/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 16
+============================================================
+Seed vertex of first event in batch: [  28.17028316  154.21381265 -143.46329901] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 1470)
+Batch 16 completed in 6.25s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 17
+============================================================
+Seed vertex of first event in batch: [  12.74138194  232.16910566 -313.46618598] m
+Data shape: (46, 87, 5)
+Number of events in batch: 46
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 46 events (total so far: 1516)
+Batch 17 completed in 6.10s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 18
+============================================================
+Seed vertex of first event in batch: [-143.49277352 -487.04834225  168.21451506] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 1576)
+Batch 18 completed in 5.58s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 19
+============================================================
+Seed vertex of first event in batch: [294.26772483  70.02513595 367.44625918] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 1678)
+Batch 19 completed in 9.07s
+[MEM after network load] Process RSS: 5.79 GB | System: 137.0/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 20
+============================================================
+Seed vertex of first event in batch: [-290.02923129   30.52194182  -80.21301502] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 1756)
+Batch 20 completed in 5.68s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.9/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 21
+============================================================
+Seed vertex of first event in batch: [-60.32934831 -19.47791197 271.84563851] m
+Data shape: (133, 19, 5)
+Number of events in batch: 133
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 133 events (total so far: 1889)
+Batch 21 completed in 7.51s
+[MEM after network load] Process RSS: 5.79 GB | System: 137.0/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 22
+============================================================
+Seed vertex of first event in batch: [ 55.38736122 121.2070519  187.53154869] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 1967)
+Batch 22 completed in 10.36s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.9/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 23
+============================================================
+Seed vertex of first event in batch: [-329.01834464  343.84662776 -326.13017345] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 2069)
+Batch 23 completed in 6.17s
+[MEM after network load] Process RSS: 5.79 GB | System: 137.0/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 24
+============================================================
+Seed vertex of first event in batch: [ 170.30651502  186.7217867  -175.86572078] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 2129)
+Batch 24 completed in 8.31s
+[MEM after network load] Process RSS: 5.79 GB | System: 137.0/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 25
+============================================================
+Seed vertex of first event in batch: [-138.01741422  265.97978428  222.17855798] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 2207)
+Batch 25 completed in 6.58s
+[MEM after network load] Process RSS: 5.79 GB | System: 137.2/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 26
+============================================================
+Seed vertex of first event in batch: [395.49227822  54.46606945 120.06579807] m
+Data shape: (46, 87, 5)
+Number of events in batch: 46
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 46 events (total so far: 2253)
+Batch 26 completed in 8.27s
+[MEM after network load] Process RSS: 5.79 GB | System: 136.0/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 27
+============================================================
+Seed vertex of first event in batch: [ 93.30007594 455.65167697  53.66695142] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 2355)
+Batch 27 completed in 7.03s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 28
+============================================================
+Seed vertex of first event in batch: [-129.40583337 -482.44033011 -424.56067974] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 2433)
+Batch 28 completed in 6.05s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 29
+============================================================
+Seed vertex of first event in batch: [ 264.56702077 -117.19138868 -103.17995026] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 2493)
+Batch 29 completed in 7.81s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 30
+============================================================
+Seed vertex of first event in batch: [ 320.62434189  321.91588781 -180.45498551] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 2595)
+Batch 30 completed in 6.47s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 31
+============================================================
+Seed vertex of first event in batch: [ -43.72976884 -360.43057171  -38.22235741] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 2673)
+Batch 31 completed in 7.79s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.7/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 32
+============================================================
+Seed vertex of first event in batch: [-242.53349124  464.02727084 -276.48409776] m
+Data shape: (133, 19, 5)
+Number of events in batch: 133
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 133 events (total so far: 2806)
+Batch 32 completed in 7.79s
+[MEM after network load] Process RSS: 5.79 GB | System: 135.8/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 23.86 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 33
+============================================================
+Seed vertex of first event in batch: [-113.60781364  -38.66734009 -362.1220267 ] m
+Data shape: (35, 126, 5)
+Number of events in batch: 35
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 35 events (total so far: 2841)
+Batch 33 completed in 27.29s
+[MEM after network load] Process RSS: 5.98 GB | System: 136.1/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 24.42 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 34
+============================================================
+Seed vertex of first event in batch: [  16.20782373  218.20478406 -334.67965165] m
+Data shape: (60, 60, 5)
+Number of events in batch: 60
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 60 events (total so far: 2901)
+Batch 34 completed in 5.97s
+[MEM after network load] Process RSS: 5.98 GB | System: 136.2/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 24.42 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 35
+============================================================
+Seed vertex of first event in batch: [285.00022033   2.18494951  46.5012392 ] m
+Data shape: (78, 41, 5)
+Number of events in batch: 78
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 78 events (total so far: 2979)
+Batch 35 completed in 7.31s
+[MEM after network load] Process RSS: 5.99 GB | System: 136.2/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 24.42 GB | limit 112.61 GB
+
+============================================================
+Reconstructing batch 36
+============================================================
+Seed vertex of first event in batch: [294.19349412 268.80570621 132.55779988] m
+Data shape: (102, 28, 5)
+Number of events in batch: 102
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+  Wrote 102 events (total so far: 3081)
+Batch 36 completed in 7.98s
+[MEM after network load] Process RSS: 5.99 GB | System: 136.2/811.1 GB (18%)
+         GPU 0: in_use 0.00 GB | peak 24.42 GB | limit 112.61 GB

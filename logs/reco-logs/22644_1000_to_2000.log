@@ -1,0 +1,2532 @@
+Namespace(PATH_TO_INPUT='/mnt/research/IceCube/Gupta-Reco/22644/tfrecords', TFRECORDS_FILE_NAME='data_ds_22644_from_1000_to_2000_1st_pulse.tfrecord', GPU_INDEX=0, BATCH_SIZE=1, SEED='linefit', STOP_AFTER_N_BATCHES=100000000000, OUTFILE='/mnt/scratch/baburish/TPN-training/final/TPN_God/result_22644_1000_to_2000', center_track_seed=False, use_multiple_vertex_seeds=True, prescan_time=True, GAUSSIAN_CONV_WIDTHS=[100, 10, 3])
+
+
+============================================================
+Checking total events in dataset...
+============================================================
+Total events available in dataset: 2691
+============================================================
+
+
+============================================================
+Reconstructing batch 0
+============================================================
+Seed vertex of first event in batch: [248.18341496 116.99585076  39.3289912 ] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 0 completed in 23.28s
+
+============================================================
+Reconstructing batch 1
+============================================================
+Seed vertex of first event in batch: [ -44.76064229  -43.62553884 -332.72109128] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 1 completed in 23.14s
+
+============================================================
+Reconstructing batch 2
+============================================================
+Seed vertex of first event in batch: [-179.77811684 -468.08446853 -335.15019451] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 2 completed in 21.16s
+
+============================================================
+Reconstructing batch 3
+============================================================
+Seed vertex of first event in batch: [  30.4046092  -265.38404816 -281.33117891] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 3 completed in 22.90s
+
+============================================================
+Reconstructing batch 4
+============================================================
+Seed vertex of first event in batch: [ 248.76308043 -122.05128267 -422.42077816] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 4 completed in 22.34s
+
+============================================================
+Reconstructing batch 5
+============================================================
+Seed vertex of first event in batch: [-350.87998759   59.67211154   -9.76157781] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 5 completed in 20.89s
+
+============================================================
+Reconstructing batch 6
+============================================================
+Seed vertex of first event in batch: [ -11.15022062 -477.35471348   35.60001946] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 6 completed in 22.04s
+
+============================================================
+Reconstructing batch 7
+============================================================
+Seed vertex of first event in batch: [ 362.57280133 -151.33397608 -149.32870934] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 7 completed in 23.36s
+
+============================================================
+Reconstructing batch 8
+============================================================
+Seed vertex of first event in batch: [-190.89344541 -404.52041191 -271.67816369] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 8 completed in 22.75s
+
+============================================================
+Reconstructing batch 9
+============================================================
+Seed vertex of first event in batch: [425.94371151 -10.11579743  48.88678861] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 9 completed in 21.67s
+
+============================================================
+Reconstructing batch 10
+============================================================
+Seed vertex of first event in batch: [334.50147915 276.61544772  55.81185753] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 10 completed in 18.80s
+
+============================================================
+Reconstructing batch 11
+============================================================
+Seed vertex of first event in batch: [ 246.39998191  -45.73065774 -304.31689995] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 11 completed in 23.91s
+
+============================================================
+Reconstructing batch 12
+============================================================
+Seed vertex of first event in batch: [ 248.19809479 -118.49642107   64.87728481] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 12 completed in 18.95s
+
+============================================================
+Reconstructing batch 13
+============================================================
+Seed vertex of first event in batch: [342.46781857  -3.19770341  90.32279399] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 13 completed in 25.73s
+
+============================================================
+Reconstructing batch 14
+============================================================
+Seed vertex of first event in batch: [-94.06117781 305.00682864 -54.39633001] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 14 completed in 19.75s
+
+============================================================
+Reconstructing batch 15
+============================================================
+Seed vertex of first event in batch: [-114.93480336  446.37788937   88.54696307] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 15 completed in 26.21s
+
+============================================================
+Reconstructing batch 16
+============================================================
+Seed vertex of first event in batch: [-309.64972328   31.83662904 -231.76144654] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 16 completed in 21.25s
+
+============================================================
+Reconstructing batch 17
+============================================================
+Seed vertex of first event in batch: [ 382.05324293 -214.12240395 -350.25005307] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 17 completed in 27.62s
+
+============================================================
+Reconstructing batch 18
+============================================================
+Seed vertex of first event in batch: [ 198.33263535  -14.46124921 -128.39680476] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 18 completed in 18.95s
+
+============================================================
+Reconstructing batch 19
+============================================================
+Seed vertex of first event in batch: [-221.62508702 -135.96611921  312.46940347] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 19 completed in 28.13s
+
+============================================================
+Reconstructing batch 20
+============================================================
+Seed vertex of first event in batch: [  72.22696525   64.16866655 -465.9086898 ] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 20 completed in 20.97s
+
+============================================================
+Reconstructing batch 21
+============================================================
+Seed vertex of first event in batch: [-166.35185627   -2.94376279 -198.00300062] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 21 completed in 22.52s
+
+============================================================
+Reconstructing batch 22
+============================================================
+Seed vertex of first event in batch: [-157.56956874 -210.06334892  235.12462679] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 22 completed in 25.20s
+
+============================================================
+Reconstructing batch 23
+============================================================
+Seed vertex of first event in batch: [ 433.19826122  109.41395233 -306.29665599] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 23 completed in 19.89s
+
+============================================================
+Reconstructing batch 24
+============================================================
+Seed vertex of first event in batch: [ -14.12196029  -49.8025935  -210.48693233] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 24 completed in 21.25s
+
+============================================================
+Reconstructing batch 25
+============================================================
+Seed vertex of first event in batch: [ 127.30270854  211.78062422 -181.08824205] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 25 completed in 20.58s
+
+============================================================
+Reconstructing batch 26
+============================================================
+Seed vertex of first event in batch: [113.65811264 157.26188988 501.61718467] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 26 completed in 27.60s
+
+============================================================
+Reconstructing batch 27
+============================================================
+Seed vertex of first event in batch: [-240.89581835   63.19494727  200.82840887] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 27 completed in 21.05s
+
+============================================================
+Reconstructing batch 28
+============================================================
+Seed vertex of first event in batch: [369.38500264  75.9691213  -68.76945436] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 28 completed in 18.68s
+
+============================================================
+Reconstructing batch 29
+============================================================
+Seed vertex of first event in batch: [ -79.28661704 -287.99538978 -469.47976555] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 29 completed in 30.25s
+
+============================================================
+Reconstructing batch 30
+============================================================
+Seed vertex of first event in batch: [-120.37147755   17.00440217   42.95641393] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 30 completed in 21.40s
+
+============================================================
+Reconstructing batch 31
+============================================================
+Seed vertex of first event in batch: [ 144.65426523  -26.00098618 -249.62136565] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 31 completed in 21.88s
+
+============================================================
+Reconstructing batch 32
+============================================================
+Seed vertex of first event in batch: [-297.44396399 -358.08976307 -235.48974539] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 32 completed in 18.79s
+
+============================================================
+Reconstructing batch 33
+============================================================
+Seed vertex of first event in batch: [ 221.66290941 -339.72329327 -256.22740135] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 33 completed in 20.94s
+
+============================================================
+Reconstructing batch 34
+============================================================
+Seed vertex of first event in batch: [-237.13328696 -118.77691283 -356.13764454] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 34 completed in 30.61s
+
+============================================================
+Reconstructing batch 35
+============================================================
+Seed vertex of first event in batch: [-287.82402975  129.68263002  -35.94644101] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 35 completed in 20.66s
+
+============================================================
+Reconstructing batch 36
+============================================================
+Seed vertex of first event in batch: [-301.83674675  295.72009905 -457.71736379] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 36 completed in 21.93s
+
+============================================================
+Reconstructing batch 37
+============================================================
+Seed vertex of first event in batch: [-284.11011556  201.78531592 -317.49695122] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 37 completed in 20.97s
+
+============================================================
+Reconstructing batch 38
+============================================================
+Seed vertex of first event in batch: [-124.44845652 -485.20108644 -444.35130649] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 38 completed in 19.15s
+
+============================================================
+Reconstructing batch 39
+============================================================
+Seed vertex of first event in batch: [ -48.15630515   -2.05224827 -356.2401317 ] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 39 completed in 29.22s
+
+============================================================
+Reconstructing batch 40
+============================================================
+Seed vertex of first event in batch: [260.81795177 212.60566008  43.15757761] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 40 completed in 21.06s
+
+============================================================
+Reconstructing batch 41
+============================================================
+Seed vertex of first event in batch: [435.91138992 224.22137815 241.87541031] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 41 completed in 18.98s
+
+============================================================
+Reconstructing batch 42
+============================================================
+Seed vertex of first event in batch: [-144.26682837  -59.5644365   -86.85016943] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 42 completed in 21.57s
+
+============================================================
+Reconstructing batch 43
+============================================================
+Seed vertex of first event in batch: [  36.50664885 -368.5568433  -231.05442865] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 43 completed in 20.76s
+
+============================================================
+Reconstructing batch 44
+============================================================
+Seed vertex of first event in batch: [-71.20989357 218.1419068  232.8913583 ] m
+Data shape: (39, 41, 5)
+Number of events in batch: 39
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 44 completed in 32.78s
+
+============================================================
+Reconstructing batch 45
+============================================================
+Seed vertex of first event in batch: [-330.00458749 -272.685755   -219.96480615] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 45 completed in 21.12s
+
+============================================================
+Reconstructing batch 46
+============================================================
+Seed vertex of first event in batch: [-133.74938579 -206.19118733 -258.007761  ] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 46 completed in 20.73s
+
+============================================================
+Reconstructing batch 47
+============================================================
+Seed vertex of first event in batch: [-506.58985948   29.20700855   29.02305495] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 47 completed in 18.82s
+
+============================================================
+Reconstructing batch 48
+============================================================
+Seed vertex of first event in batch: [-276.42937188 -247.08313286 -410.96874479] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 48 completed in 19.60s
+
+============================================================
+Reconstructing batch 49
+============================================================
+Seed vertex of first event in batch: [499.54471619 241.59345859 319.78857403] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 49 completed in 20.05s
+
+============================================================
+Reconstructing batch 50
+============================================================
+Seed vertex of first event in batch: [288.85014014 132.86515398  61.15734252] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 50 completed in 32.25s
+
+============================================================
+Reconstructing batch 51
+============================================================
+Seed vertex of first event in batch: [-281.78158759  172.46182225 -424.95909617] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 51 completed in 21.12s
+
+============================================================
+Reconstructing batch 52
+============================================================
+Seed vertex of first event in batch: [-224.95841275 -254.82582505 -246.79865042] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 52 completed in 21.30s
+
+============================================================
+Reconstructing batch 53
+============================================================
+Seed vertex of first event in batch: [ 53.44376717  23.84797872 197.89297511] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 53 completed in 19.27s
+
+============================================================
+Reconstructing batch 54
+============================================================
+Seed vertex of first event in batch: [ 244.15287651   49.48548068 -270.9611676 ] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 54 completed in 21.19s
+
+============================================================
+Reconstructing batch 55
+============================================================
+Seed vertex of first event in batch: [-166.83482953   74.12763962   97.33111635] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 55 completed in 21.91s
+
+============================================================
+Reconstructing batch 56
+============================================================
+Seed vertex of first event in batch: [229.9176615  134.20637499 385.06546255] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 56 completed in 34.02s
+
+============================================================
+Reconstructing batch 57
+============================================================
+Seed vertex of first event in batch: [-32.58091373 406.01334471 170.11547635] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 57 completed in 20.65s
+
+============================================================
+Reconstructing batch 58
+============================================================
+Seed vertex of first event in batch: [ 423.74192901   72.5034267  -438.28075339] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 58 completed in 19.48s
+
+============================================================
+Reconstructing batch 59
+============================================================
+Seed vertex of first event in batch: [-298.50650927 -451.56797925 -410.34651575] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 59 completed in 19.17s
+
+============================================================
+Reconstructing batch 60
+============================================================
+Seed vertex of first event in batch: [371.47202044 -93.6486677  -31.59565817] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 60 completed in 21.25s
+
+============================================================
+Reconstructing batch 61
+============================================================
+Seed vertex of first event in batch: [-266.43572348  378.13351205 -368.13368283] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 61 completed in 20.99s
+
+============================================================
+Reconstructing batch 62
+============================================================
+Seed vertex of first event in batch: [ 192.32718554  -11.81317042 -361.51359507] m
+Data shape: (2, 1702, 5)
+Number of events in batch: 2
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 62 completed in 22.07s
+
+============================================================
+Reconstructing batch 63
+============================================================
+Seed vertex of first event in batch: [-344.90256254  138.12670364 -352.92811558] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 63 completed in 34.65s
+
+============================================================
+Reconstructing batch 64
+============================================================
+Seed vertex of first event in batch: [-161.39897512 -359.93511188 -457.00563334] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 64 completed in 22.21s
+
+============================================================
+Reconstructing batch 65
+============================================================
+Seed vertex of first event in batch: [-259.77278675   51.84554132  105.59082541] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 65 completed in 20.91s
+
+============================================================
+Reconstructing batch 66
+============================================================
+Seed vertex of first event in batch: [-348.11126634 -113.02794504 -285.8514376 ] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 66 completed in 20.85s
+
+============================================================
+Reconstructing batch 67
+============================================================
+Seed vertex of first event in batch: [ 349.48308884 -234.05065653  444.97137599] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 67 completed in 19.60s
+
+============================================================
+Reconstructing batch 68
+============================================================
+Seed vertex of first event in batch: [-477.59187786  -93.85882608 -191.94618642] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 68 completed in 20.90s
+
+============================================================
+Reconstructing batch 69
+============================================================
+Seed vertex of first event in batch: [-433.63583776 -208.66602681 -364.02199929] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 69 completed in 34.50s
+
+============================================================
+Reconstructing batch 70
+============================================================
+Seed vertex of first event in batch: [ 126.40139515 -373.84765097  284.39007488] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 70 completed in 18.97s
+
+============================================================
+Reconstructing batch 71
+============================================================
+Seed vertex of first event in batch: [119.65693538 -72.27350605 -41.46952242] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 71 completed in 21.14s
+
+============================================================
+Reconstructing batch 72
+============================================================
+Seed vertex of first event in batch: [396.73874652 170.82177737 249.16807465] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 72 completed in 18.85s
+
+============================================================
+Reconstructing batch 73
+============================================================
+Seed vertex of first event in batch: [-10.37199837  43.47724204 105.30551398] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 73 completed in 21.19s
+
+============================================================
+Reconstructing batch 74
+============================================================
+Seed vertex of first event in batch: [ 259.4774686  -175.82724549 -423.47691046] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 74 completed in 21.19s
+
+============================================================
+Reconstructing batch 75
+============================================================
+Seed vertex of first event in batch: [  60.6317877  -290.52505569 -316.91761407] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 75 completed in 21.72s
+
+============================================================
+Reconstructing batch 76
+============================================================
+Seed vertex of first event in batch: [ -20.36485279   36.38763392 -386.02987036] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 76 completed in 38.15s
+
+============================================================
+Reconstructing batch 77
+============================================================
+Seed vertex of first event in batch: [ -19.9928331  -388.2334036   347.47578991] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 77 completed in 19.64s
+
+============================================================
+Reconstructing batch 78
+============================================================
+Seed vertex of first event in batch: [ 317.88209581  275.33024514 -226.98768372] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 78 completed in 21.27s
+
+============================================================
+Reconstructing batch 79
+============================================================
+Seed vertex of first event in batch: [-195.47683915  -55.75704868  304.24484728] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 79 completed in 22.09s
+
+============================================================
+Reconstructing batch 80
+============================================================
+Seed vertex of first event in batch: [ 224.44436443 -108.85370163 -431.29797836] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 80 completed in 20.87s
+
+============================================================
+Reconstructing batch 81
+============================================================
+Seed vertex of first event in batch: [-313.0971639  -208.58110188  454.28930861] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 81 completed in 20.91s
+
+============================================================
+Reconstructing batch 82
+============================================================
+Seed vertex of first event in batch: [-227.959727   -201.55207875 -332.26346683] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 82 completed in 35.16s
+
+============================================================
+Reconstructing batch 83
+============================================================
+Seed vertex of first event in batch: [176.93609252 129.36029551   3.93736565] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 83 completed in 18.69s
+
+============================================================
+Reconstructing batch 84
+============================================================
+Seed vertex of first event in batch: [-106.83553769 -374.53846803 -414.97843561] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 84 completed in 19.74s
+
+============================================================
+Reconstructing batch 85
+============================================================
+Seed vertex of first event in batch: [-186.25930597  419.38828676 -258.53950337] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 85 completed in 19.14s
+
+============================================================
+Reconstructing batch 86
+============================================================
+Seed vertex of first event in batch: [   4.16039358  -52.95472559 -455.16349742] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 86 completed in 22.53s
+
+============================================================
+Reconstructing batch 87
+============================================================
+Seed vertex of first event in batch: [ 116.47069048 -102.63680818   91.77640891] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 87 completed in 19.52s
+
+============================================================
+Reconstructing batch 88
+============================================================
+Seed vertex of first event in batch: [-191.67801526  278.65018225 -420.68984866] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 88 completed in 19.03s
+
+============================================================
+Reconstructing batch 89
+============================================================
+Seed vertex of first event in batch: [-210.28401806  320.46840838   93.72907036] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 89 completed in 37.88s
+
+============================================================
+Reconstructing batch 90
+============================================================
+Seed vertex of first event in batch: [157.11888176 142.47212079 118.68909405] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 90 completed in 21.50s
+
+============================================================
+Reconstructing batch 91
+============================================================
+Seed vertex of first event in batch: [ -89.38740886 -485.57625781  343.86022407] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 91 completed in 21.09s
+
+============================================================
+Reconstructing batch 92
+============================================================
+Seed vertex of first event in batch: [ -90.90898856   -5.65719116 -215.31047252] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 92 completed in 21.49s
+
+============================================================
+Reconstructing batch 93
+============================================================
+Seed vertex of first event in batch: [-415.28379531 -316.94755873  231.42058776] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 93 completed in 20.91s
+
+============================================================
+Reconstructing batch 94
+============================================================
+Seed vertex of first event in batch: [-251.4832573  -125.80085956 -440.86288123] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 94 completed in 21.28s
+
+============================================================
+Reconstructing batch 95
+============================================================
+Seed vertex of first event in batch: [ 20.61331714 -69.06161145 -93.87671575] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 95 completed in 19.99s
+
+============================================================
+Reconstructing batch 96
+============================================================
+Seed vertex of first event in batch: [ -16.03859672  124.70366892 -309.77566378] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 96 completed in 38.24s
+
+============================================================
+Reconstructing batch 97
+============================================================
+Seed vertex of first event in batch: [-189.76189331  269.31358374  248.00265579] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 97 completed in 19.46s
+
+============================================================
+Reconstructing batch 98
+============================================================
+Seed vertex of first event in batch: [  61.92872933  339.33717541 -254.99691736] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 98 completed in 21.39s
+
+============================================================
+Reconstructing batch 99
+============================================================
+Seed vertex of first event in batch: [336.92258644 -54.16159262 204.18068568] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 99 completed in 21.53s
+
+============================================================
+Reconstructing batch 100
+============================================================
+Seed vertex of first event in batch: [502.83337236 245.33511076 -82.10984882] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 100 completed in 19.61s
+
+============================================================
+Reconstructing batch 101
+============================================================
+Seed vertex of first event in batch: [  55.76846893   14.47254588 -367.22495734] m
+Data shape: (2, 1702, 5)
+Number of events in batch: 2
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 101 completed in 22.07s
+
+============================================================
+Reconstructing batch 102
+============================================================
+Seed vertex of first event in batch: [ 361.84311785 -297.06183632 -376.16001786] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 102 completed in 20.03s
+
+============================================================
+Reconstructing batch 103
+============================================================
+Seed vertex of first event in batch: [ -27.81963363 -229.81643884 -451.09442149] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 103 completed in 40.31s
+
+============================================================
+Reconstructing batch 104
+============================================================
+Seed vertex of first event in batch: [ -41.57834682  -94.5478836  -133.2405981 ] m
+Data shape: (39, 41, 5)
+Number of events in batch: 39
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 104 completed in 19.17s
+
+============================================================
+Reconstructing batch 105
+============================================================
+Seed vertex of first event in batch: [-383.37855933 -258.44846391 -297.39277115] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 105 completed in 21.46s
+
+============================================================
+Reconstructing batch 106
+============================================================
+Seed vertex of first event in batch: [ 193.32517816  203.20122526 -293.95298929] m
+Data shape: (2, 1702, 5)
+Number of events in batch: 2
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 106 completed in 22.18s
+
+============================================================
+Reconstructing batch 107
+============================================================
+Seed vertex of first event in batch: [-519.45506842  -92.77303729  278.2051742 ] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 107 completed in 21.47s
+
+============================================================
+Reconstructing batch 108
+============================================================
+Seed vertex of first event in batch: [-125.3870845   404.81040209 -188.30445608] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 108 completed in 19.33s
+
+============================================================
+Reconstructing batch 109
+============================================================
+Seed vertex of first event in batch: [ 322.53833929   87.01405617 -312.12156454] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 109 completed in 21.55s
+
+============================================================
+Reconstructing batch 110
+============================================================
+Seed vertex of first event in batch: [504.63704296 185.10741884 440.56407222] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 110 completed in 19.54s
+
+============================================================
+Reconstructing batch 111
+============================================================
+Seed vertex of first event in batch: [239.67369775 301.85524513  48.32388733] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 111 completed in 38.95s
+
+============================================================
+Reconstructing batch 112
+============================================================
+Seed vertex of first event in batch: [-124.27468471  308.21962263 -238.23969549] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 112 completed in 20.09s
+
+============================================================
+Reconstructing batch 113
+============================================================
+Seed vertex of first event in batch: [-306.21624462 -244.64699457 -336.58292477] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 113 completed in 21.45s
+
+============================================================
+Reconstructing batch 114
+============================================================
+Seed vertex of first event in batch: [ 251.87606371  -13.6920385  -434.68515896] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 114 completed in 21.23s
+
+============================================================
+Reconstructing batch 115
+============================================================
+Seed vertex of first event in batch: [-105.04801268  -62.05498932  144.9091528 ] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 115 completed in 21.45s
+
+============================================================
+Reconstructing batch 116
+============================================================
+Seed vertex of first event in batch: [-158.28464803  -94.9564167   152.60620226] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 116 completed in 18.88s
+
+============================================================
+Reconstructing batch 117
+============================================================
+Seed vertex of first event in batch: [-195.1937086  -105.58120356  463.82575199] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 117 completed in 21.47s
+
+============================================================
+Reconstructing batch 118
+============================================================
+Seed vertex of first event in batch: [ 131.86213104 -365.74339689  117.91190956] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 118 completed in 37.05s
+
+============================================================
+Reconstructing batch 119
+============================================================
+Seed vertex of first event in batch: [-326.435674    254.87355063  184.76969206] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 119 completed in 19.88s
+
+============================================================
+Reconstructing batch 120
+============================================================
+Seed vertex of first event in batch: [ 319.32402453 -152.36692475 -357.83732531] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 120 completed in 22.75s
+
+============================================================
+Reconstructing batch 121
+============================================================
+Seed vertex of first event in batch: [453.49098379 109.43142957  86.76518318] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 121 completed in 20.25s
+
+============================================================
+Reconstructing batch 122
+============================================================
+Seed vertex of first event in batch: [-326.7203709  -205.54216297  265.96938485] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 122 completed in 21.56s
+
+============================================================
+Reconstructing batch 123
+============================================================
+Seed vertex of first event in batch: [  3.93854066  17.66127154 -89.90999291] m
+Data shape: (51, 28, 5)
+Number of events in batch: 51
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 123 completed in 20.62s
+
+============================================================
+Reconstructing batch 124
+============================================================
+Seed vertex of first event in batch: [  22.03607191 -311.05395087 -353.49648624] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 124 completed in 22.56s
+
+============================================================
+Reconstructing batch 125
+============================================================
+Seed vertex of first event in batch: [  19.28815511 -389.56557183  387.95067352] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 125 completed in 21.08s
+
+============================================================
+Reconstructing batch 126
+============================================================
+Seed vertex of first event in batch: [248.3904881  -26.8487223  149.15547928] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 126 completed in 40.04s
+
+============================================================
+Reconstructing batch 127
+============================================================
+Seed vertex of first event in batch: [155.42174402 139.62587414  66.27909377] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 127 completed in 21.94s
+
+============================================================
+Reconstructing batch 128
+============================================================
+Seed vertex of first event in batch: [-288.85692164  370.59263047  256.39752614] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 128 completed in 19.51s
+
+============================================================
+Reconstructing batch 129
+============================================================
+Seed vertex of first event in batch: [ 370.01130858  231.26947647 -282.80974356] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 129 completed in 21.48s
+
+============================================================
+Reconstructing batch 130
+============================================================
+Seed vertex of first event in batch: [239.21293965 146.54414663 458.49082273] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 130 completed in 19.98s
+
+============================================================
+Reconstructing batch 131
+============================================================
+Seed vertex of first event in batch: [ -78.6440392  -177.85960271   92.39124412] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 131 completed in 21.40s
+
+============================================================
+Reconstructing batch 132
+============================================================
+Seed vertex of first event in batch: [-140.64253716 -171.54898413  104.05225353] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 132 completed in 21.59s
+
+============================================================
+Reconstructing batch 133
+============================================================
+Seed vertex of first event in batch: [-433.62111479   93.54874846 -272.87417668] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 133 completed in 40.57s
+
+============================================================
+Reconstructing batch 134
+============================================================
+Seed vertex of first event in batch: [ 434.99369344 -182.50492537  173.04790787] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 134 completed in 19.26s
+
+============================================================
+Reconstructing batch 135
+============================================================
+Seed vertex of first event in batch: [-122.41745475 -414.29176489 -314.74866017] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 135 completed in 22.03s
+
+============================================================
+Reconstructing batch 136
+============================================================
+Seed vertex of first event in batch: [ 268.9161366  -244.75185329 -450.54642351] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 136 completed in 22.76s
+
+============================================================
+Reconstructing batch 137
+============================================================
+Seed vertex of first event in batch: [112.95041109 396.96068979 264.99003124] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 137 completed in 21.80s
+
+============================================================
+Reconstructing batch 138
+============================================================
+Seed vertex of first event in batch: [ -73.73473585 -213.51776393  -81.48737518] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 138 completed in 21.60s
+
+============================================================
+Reconstructing batch 139
+============================================================
+Seed vertex of first event in batch: [-240.71860007 -191.11424391 -340.02951927] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 139 completed in 20.20s
+
+============================================================
+Reconstructing batch 140
+============================================================
+Seed vertex of first event in batch: [ 220.1694139  -166.27636857  140.26372795] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 140 completed in 21.37s
+
+============================================================
+Reconstructing batch 141
+============================================================
+Seed vertex of first event in batch: [  94.64259149 -186.22538238  139.37192938] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 141 completed in 42.74s
+
+============================================================
+Reconstructing batch 142
+============================================================
+Seed vertex of first event in batch: [ -27.98357202 -384.22567787  160.19121977] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 142 completed in 19.52s
+
+============================================================
+Reconstructing batch 143
+============================================================
+Seed vertex of first event in batch: [173.88797042 181.1714481  196.15205971] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 143 completed in 21.81s
+
+============================================================
+Reconstructing batch 144
+============================================================
+Seed vertex of first event in batch: [-355.23310776  -91.19246022  287.0356223 ] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 144 completed in 20.09s
+
+============================================================
+Reconstructing batch 145
+============================================================
+Seed vertex of first event in batch: [-288.16310598  299.50330729 -432.31975091] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 145 completed in 22.74s
+
+============================================================
+Reconstructing batch 146
+============================================================
+Seed vertex of first event in batch: [-93.41741288 -23.08163907 209.97527471] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 146 completed in 22.61s
+
+============================================================
+Reconstructing batch 147
+============================================================
+Seed vertex of first event in batch: [-280.27256342  225.38701713 -359.79912482] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 147 completed in 21.49s
+
+============================================================
+Reconstructing batch 148
+============================================================
+Seed vertex of first event in batch: [368.20103776 229.39908804  -2.03685164] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 148 completed in 22.02s
+
+============================================================
+Reconstructing batch 149
+============================================================
+Seed vertex of first event in batch: [480.01166562 283.62805114  71.9794552 ] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 149 completed in 41.83s
+
+============================================================
+Reconstructing batch 150
+============================================================
+Seed vertex of first event in batch: [-284.54900113 -175.28105587 -374.15975312] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 150 completed in 22.84s
+
+============================================================
+Reconstructing batch 151
+============================================================
+Seed vertex of first event in batch: [-225.21493735  127.29862128  369.85563058] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 151 completed in 21.59s
+
+============================================================
+Reconstructing batch 152
+============================================================
+Seed vertex of first event in batch: [172.71480939 405.32918826  58.20795909] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 152 completed in 19.10s
+
+============================================================
+Reconstructing batch 153
+============================================================
+Seed vertex of first event in batch: [-133.58054728  467.83946334 -340.48100754] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 153 completed in 20.26s
+
+============================================================
+Reconstructing batch 154
+============================================================
+Seed vertex of first event in batch: [ 127.29026956 -315.37120919 -423.04606772] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 154 completed in 21.82s
+
+============================================================
+Reconstructing batch 155
+============================================================
+Seed vertex of first event in batch: [481.05878826 127.82915298 437.45625779] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 155 completed in 19.07s
+
+============================================================
+Reconstructing batch 156
+============================================================
+Seed vertex of first event in batch: [-343.00990657 -154.84393286  357.26528619] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 156 completed in 21.18s
+
+============================================================
+Reconstructing batch 157
+============================================================
+Seed vertex of first event in batch: [  96.38274699  172.51856656 -456.56386156] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 157 completed in 42.19s
+
+============================================================
+Reconstructing batch 158
+============================================================
+Seed vertex of first event in batch: [-261.30068216 -319.04009539 -224.2672842 ] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 158 completed in 21.85s
+
+============================================================
+Reconstructing batch 159
+============================================================
+Seed vertex of first event in batch: [ 178.50632607  -69.44436018 -229.10089878] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 159 completed in 23.02s
+
+============================================================
+Reconstructing batch 160
+============================================================
+Seed vertex of first event in batch: [ -57.2108715  -247.40724247 -392.91076628] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 160 completed in 21.98s
+
+============================================================
+Reconstructing batch 161
+============================================================
+Seed vertex of first event in batch: [-236.64531855  112.53066168  239.01161954] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 161 completed in 21.94s
+
+============================================================
+Reconstructing batch 162
+============================================================
+Seed vertex of first event in batch: [ -0.70410584 -63.4158966  111.3648865 ] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 162 completed in 22.76s
+
+============================================================
+Reconstructing batch 163
+============================================================
+Seed vertex of first event in batch: [ -28.05893798  -33.02231645 -318.22171576] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 163 completed in 21.97s
+
+============================================================
+Reconstructing batch 164
+============================================================
+Seed vertex of first event in batch: [  10.9676557   135.72307885 -437.46195299] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 164 completed in 22.28s
+
+============================================================
+Reconstructing batch 165
+============================================================
+Seed vertex of first event in batch: [ 30.95600459 112.22680226 101.69916997] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 165 completed in 40.68s
+
+============================================================
+Reconstructing batch 166
+============================================================
+Seed vertex of first event in batch: [233.01127205  38.0191631   81.8218805 ] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 166 completed in 20.48s
+
+============================================================
+Reconstructing batch 167
+============================================================
+Seed vertex of first event in batch: [ 116.19917185  229.94982766 -416.2015861 ] m
+Data shape: (2, 1702, 5)
+Number of events in batch: 2
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 167 completed in 22.11s
+
+============================================================
+Reconstructing batch 168
+============================================================
+Seed vertex of first event in batch: [  51.25721818  463.17439676 -334.12515037] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 168 completed in 21.69s
+
+============================================================
+Reconstructing batch 169
+============================================================
+Seed vertex of first event in batch: [-363.54595126   78.456877   -395.22371245] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 169 completed in 22.86s
+
+============================================================
+Reconstructing batch 170
+============================================================
+Seed vertex of first event in batch: [-314.81644472   42.2638554   -40.20493649] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 170 completed in 19.78s
+
+============================================================
+Reconstructing batch 171
+============================================================
+Seed vertex of first event in batch: [101.17330366  57.04062697 277.28864544] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 171 completed in 22.11s
+
+============================================================
+Reconstructing batch 172
+============================================================
+Seed vertex of first event in batch: [439.51462267 290.92909325 -45.91390919] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 172 completed in 20.31s
+
+============================================================
+Reconstructing batch 173
+============================================================
+Seed vertex of first event in batch: [-231.35182341 -190.17696672  246.26559145] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 173 completed in 21.77s
+
+============================================================
+Reconstructing batch 174
+============================================================
+Seed vertex of first event in batch: [-157.05004665  110.73566883  391.28332758] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 174 completed in 41.31s
+
+============================================================
+Reconstructing batch 175
+============================================================
+Seed vertex of first event in batch: [ 320.8649315   250.82933918 -336.10155921] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 175 completed in 21.78s
+
+============================================================
+Reconstructing batch 176
+============================================================
+Seed vertex of first event in batch: [170.61459912 112.75206798  62.26876062] m
+Data shape: (39, 41, 5)
+Number of events in batch: 39
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 176 completed in 19.41s
+
+============================================================
+Reconstructing batch 177
+============================================================
+Seed vertex of first event in batch: [-342.73620645  -96.75489107 -342.25593295] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 177 completed in 22.09s
+
+============================================================
+Reconstructing batch 178
+============================================================
+Seed vertex of first event in batch: [-414.52372432  236.49541633  292.11576023] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 178 completed in 20.59s
+
+============================================================
+Reconstructing batch 179
+============================================================
+Seed vertex of first event in batch: [-64.97055253 328.34585005 234.36174869] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 179 completed in 21.81s
+
+============================================================
+Reconstructing batch 180
+============================================================
+Seed vertex of first event in batch: [-37.80661554 307.46326845 228.01946271] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 180 completed in 23.27s
+
+============================================================
+Reconstructing batch 181
+============================================================
+Seed vertex of first event in batch: [  75.68162239  -47.98372258 -266.76720141] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 181 completed in 19.73s
+
+============================================================
+Reconstructing batch 182
+============================================================
+Seed vertex of first event in batch: [ 357.16494563   66.40266782 -172.4002641 ] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 182 completed in 44.33s
+
+============================================================
+Reconstructing batch 183
+============================================================
+Seed vertex of first event in batch: [ 312.36104574  304.80149626 -162.39473015] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 183 completed in 20.56s
+
+============================================================
+Reconstructing batch 184
+============================================================
+Seed vertex of first event in batch: [ -20.9109294  -292.51689113 -470.07008944] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 184 completed in 22.11s
+
+============================================================
+Reconstructing batch 185
+============================================================
+Seed vertex of first event in batch: [199.46310191 -34.52825315 127.76131685] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 185 completed in 22.69s
+
+============================================================
+Reconstructing batch 186
+============================================================
+Seed vertex of first event in batch: [-393.5789559  -223.69890533  432.10666944] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 186 completed in 19.23s
+
+============================================================
+Reconstructing batch 187
+============================================================
+Seed vertex of first event in batch: [421.8531837  154.31513603 215.06434175] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 187 completed in 21.76s
+
+============================================================
+Reconstructing batch 188
+============================================================
+Seed vertex of first event in batch: [ 304.63065324 -178.4649481   407.70702162] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 188 completed in 19.81s
+
+============================================================
+Reconstructing batch 189
+============================================================
+Seed vertex of first event in batch: [  41.25449572  -47.8621562  -291.43756042] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 189 completed in 23.24s
+
+============================================================
+Reconstructing batch 190
+============================================================
+Seed vertex of first event in batch: [392.73853048  58.58193525  64.54499017] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 190 completed in 19.91s
+
+============================================================
+Reconstructing batch 191
+============================================================
+Seed vertex of first event in batch: [ 305.12554214   16.63968288 -257.22861176] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 191 completed in 43.35s
+
+============================================================
+Reconstructing batch 192
+============================================================
+Seed vertex of first event in batch: [-152.76494107 -381.08106598 -345.95406849] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 192 completed in 22.37s
+
+============================================================
+Reconstructing batch 193
+============================================================
+Seed vertex of first event in batch: [ -18.3294212  -469.17228979 -407.67955008] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 193 completed in 20.82s
+
+============================================================
+Reconstructing batch 194
+============================================================
+Seed vertex of first event in batch: [-251.0913398   -68.80807396   22.68786986] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 194 completed in 22.71s
+
+============================================================
+Reconstructing batch 195
+============================================================
+Seed vertex of first event in batch: [-397.60204128   70.923755    -87.62457154] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 195 completed in 20.66s
+
+============================================================
+Reconstructing batch 196
+============================================================
+Seed vertex of first event in batch: [-364.6158007  -287.37822433 -170.38836609] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 196 completed in 21.87s
+
+============================================================
+Reconstructing batch 197
+============================================================
+Seed vertex of first event in batch: [ -99.15254999 -347.43589422 -469.84111535] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 197 completed in 21.90s
+
+============================================================
+Reconstructing batch 198
+============================================================
+Seed vertex of first event in batch: [ 491.25659372   91.68157433 -440.33599711] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 198 completed in 21.93s
+
+============================================================
+Reconstructing batch 199
+============================================================
+Seed vertex of first event in batch: [197.85979168  98.97677949 118.64934855] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 199 completed in 22.00s
+
+============================================================
+Reconstructing batch 200
+============================================================
+Seed vertex of first event in batch: [  42.4142455  -345.95202342 -416.05431848] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 200 completed in 45.60s
+
+============================================================
+Reconstructing batch 201
+============================================================
+Seed vertex of first event in batch: [ 118.58157886  155.4359681  -449.75003826] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 201 completed in 23.29s
+
+============================================================
+Reconstructing batch 202
+============================================================
+Seed vertex of first event in batch: [  8.73918099 144.25523341 -78.00298429] m
+Data shape: (2, 1702, 5)
+Number of events in batch: 2
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 202 completed in 22.77s
+
+============================================================
+Reconstructing batch 203
+============================================================
+Seed vertex of first event in batch: [ 403.92492527    2.48698764 -175.24641824] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 203 completed in 21.95s
+
+============================================================
+Reconstructing batch 204
+============================================================
+Seed vertex of first event in batch: [-34.74399596 -62.59204775 112.96277674] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 204 completed in 20.91s
+
+============================================================
+Reconstructing batch 205
+============================================================
+Seed vertex of first event in batch: [ 220.93751195 -282.4920361  -400.96813603] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 205 completed in 20.09s
+
+============================================================
+Reconstructing batch 206
+============================================================
+Seed vertex of first event in batch: [-53.53749644 -46.81206171 169.0879551 ] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 206 completed in 21.96s
+
+============================================================
+Reconstructing batch 207
+============================================================
+Seed vertex of first event in batch: [-281.02858286 -116.3220612  -241.33172606] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 207 completed in 22.24s
+
+============================================================
+Reconstructing batch 208
+============================================================
+Seed vertex of first event in batch: [ 87.86566244 141.33404054 266.14567031] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 208 completed in 20.95s
+
+============================================================
+Reconstructing batch 209
+============================================================
+Seed vertex of first event in batch: [117.92859419  69.3840732   11.33696188] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 209 completed in 45.78s
+
+============================================================
+Reconstructing batch 210
+============================================================
+Seed vertex of first event in batch: [ 467.57925345   -4.18564766 -318.694692  ] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 210 completed in 21.95s
+
+============================================================
+Reconstructing batch 211
+============================================================
+Seed vertex of first event in batch: [378.64494132 121.83276635 208.38033719] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 211 completed in 21.87s
+
+============================================================
+Reconstructing batch 212
+============================================================
+Seed vertex of first event in batch: [-126.37655216 -177.69934995  215.0779064 ] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 212 completed in 22.78s
+
+============================================================
+Reconstructing batch 213
+============================================================
+Seed vertex of first event in batch: [ 294.78196713  178.69689191 -201.8193258 ] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 213 completed in 21.96s
+
+============================================================
+Reconstructing batch 214
+============================================================
+Seed vertex of first event in batch: [ 143.50915734  285.14948095 -351.17333149] m
+Data shape: (30, 60, 5)
+Number of events in batch: 30
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 214 completed in 19.41s
+
+============================================================
+Reconstructing batch 215
+============================================================
+Seed vertex of first event in batch: [132.56929774 -70.22669068 257.94511271] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 215 completed in 21.89s
+
+============================================================
+Reconstructing batch 216
+============================================================
+Seed vertex of first event in batch: [ 287.74217653 -208.36978268  105.36252339] m
+Data shape: (23, 87, 5)
+Number of events in batch: 23
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 216 completed in 19.91s
+
+============================================================
+Reconstructing batch 217
+============================================================
+Seed vertex of first event in batch: [ 207.527955    331.83843153 -144.59745509] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 217 completed in 22.20s
+
+============================================================
+Reconstructing batch 218
+============================================================
+Seed vertex of first event in batch: [ 453.26531935  261.9378033  -428.63242778] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 218 completed in 46.74s
+
+============================================================
+Reconstructing batch 219
+============================================================
+Seed vertex of first event in batch: [ 276.35292705 -262.01661527 -310.0933527 ] m
+Data shape: (13, 184, 5)
+Number of events in batch: 13
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 219 completed in 20.15s
+
+============================================================
+Reconstructing batch 220
+============================================================
+Seed vertex of first event in batch: [-535.0162697  -156.9554304  -324.01132859] m
+Data shape: (17, 126, 5)
+Number of events in batch: 17
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 220 completed in 21.73s
+
+============================================================
+Reconstructing batch 221
+============================================================
+Seed vertex of first event in batch: [-214.23676393 -107.06846801 -315.02141844] m
+Data shape: (3, 1176, 5)
+Number of events in batch: 3
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 221 completed in 23.10s
+
+============================================================
+Reconstructing batch 222
+============================================================
+Seed vertex of first event in batch: [-110.26138365  277.49642893 -458.12647921] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 222 completed in 22.23s
+
+============================================================
+Reconstructing batch 223
+============================================================
+Seed vertex of first event in batch: [-369.15864016 -341.02219455   50.60401603] m
+Data shape: (10, 266, 5)
+Number of events in batch: 10
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 223 completed in 20.56s
+
+============================================================
+Reconstructing batch 224
+============================================================
+Seed vertex of first event in batch: [206.09898656  78.8465356   86.60405068] m
+Data shape: (51, 28, 5)
+Number of events in batch: 51
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 224 completed in 19.36s
+
+============================================================
+Reconstructing batch 225
+============================================================
+Seed vertex of first event in batch: [ 52.52635805  92.2465734  154.63240768] m
+Data shape: (39, 41, 5)
+Number of events in batch: 39
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 225 completed in 20.59s
+
+============================================================
+Reconstructing batch 226
+============================================================
+Seed vertex of first event in batch: [ 212.39203859  342.53876215 -422.71293262] m
+Data shape: (8, 386, 5)
+Number of events in batch: 8
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 226 completed in 22.10s
+
+============================================================
+Reconstructing batch 227
+============================================================
+Seed vertex of first event in batch: [ -81.4353901   -55.75806243 -331.26364781] m
+Data shape: (6, 560, 5)
+Number of events in batch: 6
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 227 completed in 48.83s
+
+============================================================
+Reconstructing batch 228
+============================================================
+Seed vertex of first event in batch: [-228.99547379  -52.49180885 -418.42230765] m
+Data shape: (4, 812, 5)
+Number of events in batch: 4
+  Fitting with Gaussian convolution width: 100 ns
+  Fitting with Gaussian convolution width: 10 ns
+  Fitting with Gaussian convolution width: 3 ns
+Batch 228 completed in 22.31s
+
+============================================================
+Reconstructing batch 229
+============================================================
