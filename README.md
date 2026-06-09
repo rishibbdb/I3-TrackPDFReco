@@ -10,7 +10,7 @@ Currently the processing and reconstruction scripts are based on JAX version=0.4
 
 ### Requirements
 
-
+```bash
 - Python==3.10.14
 - conda create --name 3pandelnet python=3.10.14
 - python -m pip uninstall -y jax jaxlib ml-dtypes numpy scipy
@@ -27,7 +27,7 @@ Currently the processing and reconstruction scripts are based on JAX version=0.4
 - python -m pip install "lineax==0.0.6" --no-deps
 - python -m pip install "quadax==0.2.9" --no-deps
 - python -m pip install --only-binary=:all: "pyarrow==14.0.2"
-
+```
 
 ### Setup enviroment
 
@@ -115,4 +115,33 @@ These processing scripts can be found in the `job_scripts` directory under their
 ### Reconstruction 
 
 Reconstruction is performed using the `batch_reconstruction.py` file, and the respective slurm job script is in `batchreconstruction_job.sh`. 
+**Note: Reconstruction does not use the IceCube environment. 
 
+```bash
+python3.10 /mnt/scratch/baburish/TPN-training/final/TPN_God/batch_reconstruction.py -f $path/to/tfrecords --seed $seed --outfile $path/to/results --batch_size $batch_size 
+```
+
+where
+- **-f: path to the tfrecords files containing the events to be reconstructed. 
+- **--seed: the initial seed of the track direction, by default and recommended, is `linefit`. Other options include `splinempe` which uses the splineMPE direction and the `truth` Which uses the true direction of the track. 
+
+### Diagnostics
+
+For plotting the performance of the network, there is a Jupyter notebook inside the `notebooks` directory call as the `angular_resolution.ipynb`
+For plotting individual likelihood scans of the direction of the neutrino track, use the `test-linefit-seed.ipynb` script. 
+
+## Performance Notes
+
+- **Typical Runtime**: Typical runtime for reconstruction is two seconds per event for a batch reconstruction
+- **Memory Usage**: Memory scales with the size of the batches. Recommended to use lower values in brackets 2 or 3 to optimize memory usage. 
+
+## Support
+
+For issues, questions, or suggestions:
+- Open an [GitHub Issue](https://github.com/rishibbdb/I3-TrackPDFReco/issues)
+- Contact: Rishi Babu (rbabu@mtu.edu, rbabu@icecube.wisc.edu)
+
+## Version Tracking
+-**alpha build: Preliminary tests with linefit
+-**beta build(Current): Added batch reconstruction/Optimizations for likelihood analysis
+-**gamma build(TBD): Add noise improvements, update to latest packages
