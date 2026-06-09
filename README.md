@@ -142,6 +142,6 @@ For issues, questions, or suggestions:
 - Contact: Rishi Babu (rbabu@mtu.edu, rbabu@icecube.wisc.edu)
 
 ## Version Tracking
--**alpha build: Preliminary tests with linefit
--**beta build(Current): Added batch reconstruction/Optimizations for likelihood analysis
--**gamma build(TBD): Add noise improvements, update to latest packages
+- **alpha build: Preliminary tests with linefit
+- **beta build(Current): Added batch reconstruction/Optimizations for likelihood analysis
+- **gamma build(TBD): Add noise improvements, update to latest packages
