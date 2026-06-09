@@ -38,9 +38,9 @@ cd I3-TrackPDFReco
 # Source environment
 
 conda activate 3pandelnet
-
-- **For data pre-processing, use the following IceCube commands. Ignore if performing reconstruction. 
-
+```
+- **For data pre-processing, use the following IceCube commands. Ignore if performing reconstruction.** 
+```bash
 eval `/cvmfs/icecube.opensciencegrid.org/py3-v4.2.1/setup.sh`
 
 CUDNN_PATH=$(dirname $(python -c "import nvidia.cudnn;print(nvidia.cudnn.__file__)"))
@@ -51,13 +51,13 @@ export XLA_FLAGS=--xla_gpu_cuda_data_dir=$CONDA_PREFIX
 ### Preprocessing Scripts
 
 All pre-processing scripts are found in the `preprocessing` directory. 
-- **convert_one_event.py: the script converts one event from an I3 file into Pandas data frame format for evaluation. 
-- **convert_i3_ftr_coinc_muonlabel.py: this script converts all the events from all the i3 files in a directory and removes events that contain a coincident muon associated with that specific event. The files in the feather format can also be used for reconstruction sequentially and not in batch processing. 
-- **convert_ftr_tfrecords.py: this script converts all events from the feather format to a TFRecords format compatible with TFRecordBatches for multiprocessing. 
+- **convert_one_event.py**: the script converts one event from an I3 file into Pandas data frame format for evaluation. 
+- **convert_i3_ftr_coinc_muonlabel.py**: this script converts all the events from all the i3 files in a directory and removes events that contain a coincident muon associated with that specific event. The files in the feather format can also be used for reconstruction sequentially and not in batch processing. 
+- **convert_ftr_tfrecords.py**: this script converts all events from the feather format to a TFRecords format compatible with TFRecordBatches for multiprocessing. 
 
 `convert_i3_ftr_coinc_muonlabel.py` can take arguments as input, but `convert_ftr_tfrecords.py` currently is not implemented with arguments, which is currently in development. The usage of the conversion scripts from I3 to Feather and Feather to TFRecords with slurm jobs is as follows:
 
-**Note: For preprocessing, you need to activate/setup the IceCube icetray environment. 
+**Note**: For preprocessing, you need to activate/setup the IceCube icetray environment. 
 
 ```bash
 
@@ -122,8 +122,8 @@ python3.10 /mnt/scratch/baburish/TPN-training/final/TPN_God/batch_reconstruction
 ```
 
 where
-- **-f: path to the tfrecords files containing the events to be reconstructed. 
-- **--seed: the initial seed of the track direction, by default and recommended, is `linefit`. Other options include `splinempe` which uses the splineMPE direction and the `truth` Which uses the true direction of the track. 
+- **-f**: path to the tfrecords files containing the events to be reconstructed. 
+- **--seed**: the initial seed of the track direction, by default and recommended, is `linefit`. Other options include `splinempe` which uses the splineMPE direction and the `truth` Which uses the true direction of the track. 
 
 ### Diagnostics
 
@@ -142,6 +142,6 @@ For issues, questions, or suggestions:
 - Contact: Rishi Babu (rbabu@mtu.edu, rbabu@icecube.wisc.edu)
 
 ## Version Tracking
-- **alpha build: Preliminary tests with linefit
-- **beta build(Current): Added batch reconstruction/Optimizations for likelihood analysis
-- **gamma build(TBD): Add noise improvements, update to latest packages
+- **alpha build**: Preliminary tests with linefit
+- **beta build(Current)**: Added batch reconstruction/Optimizations for likelihood analysis
+- **gamma build(TBD)**: Add noise improvements, update to latest packages
